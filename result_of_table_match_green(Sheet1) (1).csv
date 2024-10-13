@@ -1,0 +1,549 @@
+;FUA name;green;FUA_CODE;NUTS;NAME;COUNT;H_RATE
+0;Wien;27,00666956;AT001;AT112;Nordburgenland;1;0,63
+1;Wien;27,00666956;AT001;AT125;Weinviertel;1;0,8
+2;Wien;27,00666956;AT001;AT126;Wiener Umland/Nordteil;2;0,61
+3;Wien;27,00666956;AT001;AT127;Wiener Umland/Sudteil;3;0,88
+4;Wien;27,00666956;AT001;AT130;Wien;34;1,8
+5;Graz;52,70830897;AT002;AT221;Graz;3;0,68
+6;Graz;52,70830897;AT002;AT224;Oststeiermark;1;0,38
+7;Graz;52,70830897;AT002;AT225;West- und Sudsteiermark;1;0,52
+8;Linz;41,52721466;AT003;AT312;Linz-Wels;1;0,17
+9;Linz;41,52721466;AT003;AT313;Muhlviertel;1;0,48
+10;Salzburg;47,76894648;AT004;AT323;Salzburg Und Umgebung;2;0,55
+11;Innsbruck;42,8052467;AT005;AT332;Innsbruck;1;0,32
+12;Klagenfurt;64,3750607;AT006;AT211;Klagenfurt-Villach;2;0,7
+13;Klagenfurt;64,3750607;AT006;AT213;Unterkarnten;0;0
+14;Bruxelles / Brussel;24,00086781;BE001;BE100;Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad;33;2,74
+15;Bruxelles / Brussel;24,00086781;BE001;BE231;Arr. Aalst;2;0,69
+16;Bruxelles / Brussel;24,00086781;BE001;BE241;Arr. Halle-Vilvoorde;8;1,26
+17;Bruxelles / Brussel;24,00086781;BE001;BE310;Arr. Nivelles;3;0,75
+18;Antwerpen;28,23818018;BE002;BE211;Arr. Antwerpen;11;1,05
+19;Antwerpen;28,23818018;BE002;BE236;Arr. Sint-Niklaas;1;0,4
+20;Gent;17,56269716;BE003;BE233;Arr. Eeklo;1;1,18
+21;Gent;17,56269716;BE003;BE234;Arr. Gent;5;0,9
+22;Charleroi;27,12578714;BE004;BE353;Arr. Philippeville;1;1,49
+23;Liège;31,38183942;BE005;BE331;Arr. Huy;3;2,65
+24;Liège;31,38183942;BE005;BE332;Arr. Liege;26;4,15
+25;Liège;31,38183942;BE005;BE334;Arr. Waremme;0;0
+26;Brugge;20,71156245;BE006;BE251;Arr. Brugge;3;1,06
+27;Namur;31,95193774;BE007;BE352;Arr. Namur;10;3,16
+28;Leuven;32,52401202;BE008;BE242;Arr. Leuven;2;0,4
+29;Mons;29,62393064;BE009;BE323;Arr. Mons;7;2,7
+30;Kortrijk;13,12069755;BE010;BE254;Arr. Kortrijk;4;1,38
+31;Oostende;7,944350041;BE011;BE255;Arr. Oostende;3;1,92
+32;Sofia;52,84577657;BG001;BG411;Sofia (stolitsa);11;0,83
+33;Sofia;52,84577657;BG001;BG412;Sofia;7;3,02
+34;Sofia;52,84577657;BG001;BG414;Pernik;1;0,82
+35;Plovdiv;35,54436063;BG002;BG421;Plovdiv;6;0,9
+36;Varna;52,55970433;BG003;BG331;Varna;4;0,85
+37;Burgas;36,92128351;BG004;BG341;Burgas;5;1,21
+38;Pleven;17,9500206;BG005;BG314;Pleven;4;1,64
+39;Ruse;21,19527099;BG006;BG323;Ruse;5;2,26
+40;Vidin;18,76667312;BG007;BG311;Vidin;1;1,15
+41;Stara Zagora;35,16290415;BG008;BG344;Stara Zagora;1;0,31
+42;Sliven;47,44262527;BG009;BG342;Sliven;5;2,65
+43;Dobrich;19,01846639;BG010;BG332;Dobrich;2;1,14
+44;Shumen;26,75261575;BG011;BG333;Shumen;3;1,73
+45;Yambol;13,0295441;BG013;BG343;Yambol;1;0,83
+46;Haskovo;30,27221911;BG014;BG422;Haskovo;3;1,3
+47;Pazardzhik;16,74931977;BG015;BG423;Pazardzhik;4;1,55
+48;Blagoevgrad;63,88495222;BG016;BG413;Blagoevgrad;3;0,97
+49;Veliko Tarnovo;56,73443789;BG017;BG321;Veliko Tarnovo;5;2,09
+50;Vratsa;40,68530393;BG018;BG313;Vratsa;3;1,81
+51;Zürich;39,3486099;CH001;CH040;Zurich;7;0,47
+52;Genève;40,16567589;CH002;CH011;Vaud;6;0,76
+53;Genève;40,16567589;CH002;CH013;Geneve;3;0,61
+54;Basel;48,00576571;CH003;CH031;Basel-Stadt;1;0,52
+55;Basel;48,00576571;CH003;CH032;Basel-Landschaft;1;0,35
+56;Bern;35,04680879;CH004;CH021;Bern;7;0,68
+57;St. Gallen;36,47154764;CH007;CH053;Appenzell Ausserrhoden;0;0
+58;St. Gallen;36,47154764;CH007;CH055;St. Gallen;3;0,59
+59;Luzern;38,05661677;CH008;CH061;Luzern;2;0,49
+60;Lugano;75,70089895;CH009;CH070;Ticino;1;0,28
+61;Lefkosia;29,0095322;CY001;CY000;Kypros;14;1,62
+62;Praha;34,01554107;CZ001;CZ010;Hlavni mesto Praha;17;1,31
+63;Praha;34,01554107;CZ001;CZ020;Stredocesky kraj;17;1,26
+64;Brno;36,88555231;CZ002;CZ064;Jihomoravsky kraj;16;1,35
+65;Ostrava;39,19515244;CZ003;CZ080;Moravskoslezsky kraj;7;0,58
+66;Plze?;44,25386018;CZ004;CZ032;Plzensky kraj;6;1,03
+67;Ústí nad Labem;54,66409321;CZ005;CZ042;Ustecky kraj;11;1,34
+68;Olomouc;28,07133491;CZ006;CZ071;Olomoucky kraj;11;1,74
+69;Liberec;57,49347041;CZ007;CZ051;Liberecky kraj;2;0,45
+70;?eské Bud?jovice;39,45416852;CZ008;CZ031;Jihocesky kraj;7;1,09
+71;Hradec Králové;28,28361981;CZ009;CZ052;Kralovehradecky kraj;4;0,73
+72;Pardubice;26,64235006;CZ010;CZ053;Pardubicky kraj;5;0,96
+73;Zlín;47,01715414;CZ011;CZ072;Zlinsky kraj;7;1,2
+74;Karlovy Vary;64,56154438;CZ013;CZ041;Karlovarsky kraj;3;1,01
+75;Jihlava;39,38804822;CZ014;CZ063;Kraj Vysocina;3;0,59
+76;Berlin;45,71617061;DE001;DE300;Berlin;36;1
+77;Berlin;45,71617061;DE001;DE401;Brandenburg an der Havel, Kreisfreie Stadt;0;0
+78;Berlin;45,71617061;DE001;DE403;Frankfurt (Oder), Kreisfreie Stadt;0;0
+79;Berlin;45,71617061;DE001;DE404;Potsdam, Kreisfreie Stadt;2;1,14
+80;Berlin;45,71617061;DE001;DE405;Barnim;1;0,55
+81;Berlin;45,71617061;DE001;DE406;Dahme-Spreewald;0;0
+82;Berlin;45,71617061;DE001;DE408;Havelland;0;0
+83;Berlin;45,71617061;DE001;DE409;Markisch-Oderland;0;0
+84;Berlin;45,71617061;DE001;DE40A;Oberhavel;0;0
+85;Berlin;45,71617061;DE001;DE40C;Oder-Spree;2;1,12
+86;Berlin;45,71617061;DE001;DE40E;Potsdam-Mittelmark;0;0
+87;Berlin;45,71617061;DE001;DE40H;Teltow-Flaming;0;0
+88;Hamburg;29,30407656;DE002;DE600;Hamburg;22;1,2
+89;Hamburg;29,30407656;DE002;DE933;Harburg;4;1,59
+90;Hamburg;29,30407656;DE002;DE939;Stade;2;0,99
+91;Hamburg;29,30407656;DE002;DEF03;Lubeck, Kreisfreie Stadt;3;1,39
+92;Hamburg;29,30407656;DE002;DEF06;Herzogtum Lauenburg;1;0,51
+93;Hamburg;29,30407656;DE002;DEF09;Pinneberg;1;0,32
+94;Hamburg;29,30407656;DE002;DEF0D;Segeberg;1;0,36
+95;Hamburg;29,30407656;DE002;DEF0F;Stormarn;1;0,41
+96;München;31,33738758;DE003;DE212;Munchen, Kreisfreie Stadt;14;0,96
+97;München;31,33738758;DE003;DE217;Dachau;2;1,31
+98;München;31,33738758;DE003;DE218;Ebersberg;1;0,71
+99;München;31,33738758;DE003;DE21A;Erding;2;1,46
+100;München;31,33738758;DE003;DE21B;Freising;0;0
+101;München;31,33738758;DE003;DE21C;Furstenfeldbruck;2;0,92
+102;München;31,33738758;DE003;DE21E;Landsberg am Lech;1;0,84
+103;München;31,33738758;DE003;DE21H;Munchen, Landkreis;3;0,87
+104;München;31,33738758;DE003;DE21L;Starnberg;0;0
+105;Köln;30,84974412;DE004;DEA23;Koln, Kreisfreie Stadt;6;0,56
+106;Köln;30,84974412;DE004;DEA24;Leverkusen, Kreisfreie Stadt;0;0
+107;Köln;30,84974412;DE004;DEA27;Rhein-Erft-Kreis;3;0,64
+108;Köln;30,84974412;DE004;DEA2B;Rheinisch-Bergischer Kreis;3;1,06
+109;Frankfurt am Main;44,42078809;DE005;DE712;Frankfurt am Main, Kreisfreie Stadt;5;0,67
+110;Frankfurt am Main;44,42078809;DE005;DE713;Offenbach am Main, Kreisfreie Stadt;2;1,58
+111;Frankfurt am Main;44,42078809;DE005;DE717;Gross-Gerau;1;0,37
+112;Frankfurt am Main;44,42078809;DE005;DE718;Hochtaunuskreis;2;0,85
+113;Frankfurt am Main;44,42078809;DE005;DE719;Main-Kinzig-Kreis;5;1,2
+114;Frankfurt am Main;44,42078809;DE005;DE71A;Main-Taunus-Kreis;4;1,69
+115;Frankfurt am Main;44,42078809;DE005;DE71C;Offenbach, Landkreis;2;0,57
+116;Frankfurt am Main;44,42078809;DE005;DE71E;Wetteraukreis;4;1,31
+117;Stuttgart;40,89055907;DE007;DE111;Stuttgart, Stadtkreis;7;1,11
+118;Stuttgart;40,89055907;DE007;DE112;Boblingen;3;0,77
+119;Stuttgart;40,89055907;DE007;DE113;Esslingen;1;0,19
+120;Stuttgart;40,89055907;DE007;DE114;Goppingen;0;0
+121;Stuttgart;40,89055907;DE007;DE115;Ludwigsburg;1;0,18
+122;Stuttgart;40,89055907;DE007;DE116;Rems-Murr-Kreis;5;1,18
+123;Leipzig;23,0402811;DE008;DED51;Leipzig, Kreisfreie Stadt;7;1,2
+124;Leipzig;23,0402811;DE008;DED52;Leipzig;0;0
+125;Leipzig;23,0402811;DE008;DED53;Nordsachsen;0;0
+126;Dresden;38,37256004;DE009;DED21;Dresden, Kreisfreie Stadt;5;0,91
+127;Dresden;38,37256004;DE009;DED2C;Bautzen;3;0,99
+128;Dresden;38,37256004;DE009;DED2E;Meissen;1;0,41
+129;Dresden;38,37256004;DE009;DED2F;Sachsische Schweiz-Osterzgebirge;0;0
+130;Düsseldorf;26,21836997;DE011;DEA11;Dusseldorf, Kreisfreie Stadt;4;0,65
+131;Düsseldorf;26,21836997;DE011;DEA1C;Mettmann;1;0,21
+132;Düsseldorf;26,21836997;DE011;DEA1D;Rhein-Kreis Neuss;0;0
+133;Bremen;22,28526872;DE012;DE501;Bremen, Kreisfreie Stadt;7;1,23
+134;Bremen;22,28526872;DE012;DE922;Diepholz;0;0
+135;Bremen;22,28526872;DE012;DE936;Osterholz;2;1,77
+136;Bremen;22,28526872;DE012;DE937;Rotenburg (Wumme);0;0
+137;Bremen;22,28526872;DE012;DE93B;Verden;0;0
+138;Bremen;22,28526872;DE012;DE941;Delmenhorst, Kreisfreie Stadt;5;6,45
+139;Hannover;30,44500041;DE013;DE928;Schaumburg;2;1,27
+140;Hannover;30,44500041;DE013;DE929;Region Hannover;11;0,95
+141;Nürnberg;46,1063163;DE014;DE252;Erlangen, Kreisfreie Stadt;1;0,9
+142;Nürnberg;46,1063163;DE014;DE253;Furth, Kreisfreie Stadt;0;0
+143;Nürnberg;46,1063163;DE014;DE254;Nurnberg, Kreisfreie Stadt;4;0,78
+144;Nürnberg;46,1063163;DE014;DE255;Schwabach, Kreisfreie Stadt;1;2,45
+145;Nürnberg;46,1063163;DE014;DE257;Erlangen-Hochstadt;1;0,74
+146;Nürnberg;46,1063163;DE014;DE258;Furth, Landkreis;0;0
+147;Nürnberg;46,1063163;DE014;DE259;Nurnberger Land;2;1,18
+148;Nürnberg;46,1063163;DE014;DE25B;Roth;2;1,59
+149;Bielefeld;33,66124433;DE017;DEA41;Bielefeld, Kreisfreie Stadt;2;0,6
+150;Halle an der Saale;12,13707614;DE018;DEE02;Halle (Saale), Kreisfreie Stadt;6;2,51
+151;Halle an der Saale;12,13707614;DE018;DEE0B;Saalekreis;1;0,54
+152;Magdeburg;27,81535053;DE019;DEE03;Magdeburg, Kreisfreie Stadt;7;2,94
+153;Magdeburg;27,81535053;DE019;DEE06;Jerichower Land;2;2,21
+154;Magdeburg;27,81535053;DE019;DEE07;Borde;2;1,16
+155;Wiesbaden;58,1473203;DE020;DE714;Wiesbaden, Kreisfreie Stadt;1;0,36
+156;Wiesbaden;58,1473203;DE020;DE71D;Rheingau-Taunus-Kreis;0;0
+157;Göttingen;42,07749556;DE021;DE918;Northeim;1;0,75
+158;Darmstadt;44,03216117;DE025;DE711;Darmstadt, Kreisfreie Stadt;4;2,53
+159;Darmstadt;44,03216117;DE025;DE716;Darmstadt-Dieburg;3;1,01
+160;Trier;54,70258241;DE026;DEB21;Trier, Kreisfreie Stadt;0;0
+161;Trier;54,70258241;DE026;DEB25;Trier-Saarburg;0;0
+162;Freiburg im Breisgau;53,36186793;DE027;DE131;Freiburg im Breisgau, Stadtkreis;2;0,87
+163;Freiburg im Breisgau;53,36186793;DE027;DE132;Breisgau-Hochschwarzwald;0;0
+164;Freiburg im Breisgau;53,36186793;DE027;DE133;Emmendingen;1;0,61
+165;Regensburg;40,63376036;DE028;DE226;Kelheim;1;0,83
+166;Regensburg;40,63376036;DE028;DE232;Regensburg, Kreisfreie Stadt;2;1,33
+167;Regensburg;40,63376036;DE028;DE238;Regensburg, Landkreis;1;0,52
+168;Weimar;23,0178551;DE030;DEG05;Weimar, Kreisfreie Stadt;0;0
+169;Weimar;23,0178551;DE030;DEG0G;Weimarer Land;0;0
+170;Schwerin;34,34289369;DE031;DE804;Schwerin, Kreisfreie Stadt;2;2,09
+171;Schwerin;34,34289369;DE031;DE80O;Ludwigslust-Parchim;0;0
+172;Erfurt;31,28785003;DE032;DEG01;Erfurt, Kreisfreie Stadt;3;1,41
+173;Erfurt;31,28785003;DE032;DEG0C;Gotha;0;0
+174;Erfurt;31,28785003;DE032;DEG0D;Sommerda;0;0
+175;Erfurt;31,28785003;DE032;DEG0F;Ilm-Kreis;3;2,76
+176;Augsburg;33,98483161;DE033;DE271;Augsburg, Kreisfreie Stadt;2;0,68
+177;Augsburg;33,98483161;DE033;DE275;Aichach-Friedberg;0;0
+178;Augsburg;33,98483161;DE033;DE276;Augsburg, Landkreis;2;0,8
+179;Bonn;42,41347365;DE034;DEA22;Bonn, Kreisfreie Stadt;1;0,31
+180;Bonn;42,41347365;DE034;DEA2C;Rhein-Sieg-Kreis;1;0,17
+181;Karlsruhe;41,72032709;DE035;DE122;Karlsruhe, Stadtkreis;1;0,32
+182;Karlsruhe;41,72032709;DE035;DE123;Karlsruhe, Landkreis;2;0,45
+183;Mönchengladbach;28,35743886;DE036;DEA15;Monchengladbach, Kreisfreie Stadt;1;0,38
+184;Mainz;19,16663562;DE037;DEB35;Mainz, Kreisfreie Stadt;1;0,46
+185;Mainz;19,16663562;DE037;DEB3J;Mainz-Bingen;0;0
+186;Ruhrgebiet;30,62062806;DE038;DEA12;Duisburg, Kreisfreie Stadt;3;0,6
+187;Ruhrgebiet;30,62062806;DE038;DEA13;Essen, Kreisfreie Stadt;11;1,89
+188;Ruhrgebiet;30,62062806;DE038;DEA16;Mulheim an der Ruhr,Kreisfreie Stadt;1;0,58
+189;Ruhrgebiet;30,62062806;DE038;DEA17;Oberhausen, Kreisfreie Stadt;3;1,42
+190;Ruhrgebiet;30,62062806;DE038;DEA1F;Wesel;2;0,43
+191;Ruhrgebiet;30,62062806;DE038;DEA31;Bottrop, Kreisfreie Stadt;0;0
+192;Ruhrgebiet;30,62062806;DE038;DEA32;Gelsenkirchen, Kreisfreie Stadt;1;0,38
+193;Ruhrgebiet;30,62062806;DE038;DEA36;Recklinghausen;1;0,16
+194;Ruhrgebiet;30,62062806;DE038;DEA51;Bochum, Kreisfreie Stadt;5;1,37
+195;Ruhrgebiet;30,62062806;DE038;DEA52;Dortmund, Kreisfreie Stadt;4;0,68
+196;Ruhrgebiet;30,62062806;DE038;DEA53;Hagen, Kreisfreie Stadt;1;0,53
+197;Ruhrgebiet;30,62062806;DE038;DEA54;Hamm, Kreisfreie Stadt;2;1,12
+198;Ruhrgebiet;30,62062806;DE038;DEA55;Herne, Kreisfreie Stadt;0;0
+199;Ruhrgebiet;30,62062806;DE038;DEA56;Ennepe-Ruhr-Kreis;1;0,31
+200;Ruhrgebiet;30,62062806;DE038;DEA5C;Unna;0;0
+201;Kiel;20,67588656;DE039;DEF02;Kiel, Kreisfreie Stadt;3;1,21
+202;Kiel;20,67588656;DE039;DEF04;Neumunster, Kreisfreie Stadt;3;3,78
+203;Kiel;20,67588656;DE039;DEF0A;Plon;0;0
+204;Kiel;20,67588656;DE039;DEF0B;Rendsburg-Eckernforde;2;0,73
+205;Saarbrücken;48,69910245;DE040;DEC01;Regionalverband Saarbrucken;5;1,51
+206;Saarbrücken;48,69910245;DE040;DEC03;Neunkirchen;3;2,25
+207;Saarbrücken;48,69910245;DE040;DEC04;Saarlouis;1;0,51
+208;Saarbrücken;48,69910245;DE040;DEC05;Saarpfalz-Kreis;1;0,7
+209;Koblenz;39,39306836;DE042;DEB11;Koblenz, Kreisfreie Stadt;2;1,76
+210;Koblenz;39,39306836;DE042;DEB17;Mayen-Koblenz;1;0,47
+211;Rostock;25,02263645;DE043;DE803;Rostock, Kreisfreie Stadt;3;1,44
+212;Rostock;25,02263645;DE043;DE80K;Landkreis Rostock;2;0,93
+213;Kaiserslautern;54,78894347;DE044;DEB32;Kaiserslautern, Kreisfreie Stadt;3;3,01
+214;Kaiserslautern;54,78894347;DE044;DEB3F;Kaiserslautern, Landkreis;1;0,95
+215;Kaiserslautern;54,78894347;DE044;DEB3G;Kusel;0;0
+216;Iserlohn;63,97913605;DE045;DEA58;Markischer Kreis;2;0,48
+217;Wilhelmshaven;15,99105365;DE048;DE945;Wilhelmshaven, Kreisfreie Stadt;1;1,31
+218;Wilhelmshaven;15,99105365;DE048;DE94A;Friesland (DE);1;1,02
+219;Tübingen;42,98071285;DE050;DE142;Tubingen, Landkreis;2;0,89
+220;Villingen-Schwenningen;52,4841863;DE051;DE136;Schwarzwald-Baar-Kreis;0;0
+221;Flensburg;14,73296628;DE052;DEF01;Flensburg, Kreisfreie Stadt;1;1,13
+222;Flensburg;14,73296628;DE052;DEF0C;Schleswig-Flensburg;2;1
+223;Marburg;49,76258267;DE053;DE724;Marburg-Biedenkopf;5;2,03
+224;Konstanz;43,29622537;DE054;DE138;Konstanz;3;1,06
+225;Gießen;43,7251088;DE057;DE721;Giessen, Landkreis;3;1,12
+226;Lüneburg;41,15577143;DE058;DE935;Luneburg, Landkreis;0;0
+227;Bayreuth;50,41278106;DE059;DE242;Bayreuth, Kreisfreie Stadt;2;2,7
+228;Bayreuth;50,41278106;DE059;DE246;Bayreuth, Landkreis;1;0,96
+229;Bayreuth;50,41278106;DE059;DE24B;Kulmbach;0;0
+230;Celle;56,07515497;DE060;DE931;Celle;2;1,12
+231;Aschaffenburg;65,06645094;DE061;DE261;Aschaffenburg, Kreisfreie Stadt;0;0
+232;Aschaffenburg;65,06645094;DE061;DE264;Aschaffenburg, Landkreis;0;0
+233;Aschaffenburg;65,06645094;DE061;DE269;Miltenberg;0;0
+234;Bamberg;44,96423965;DE062;DE241;Bamberg, Kreisfreie Stadt;0;0
+235;Bamberg;44,96423965;DE062;DE245;Bamberg, Landkreis;1;0,68
+236;Plauen;49,87319229;DE063;DED44;Vogtlandkreis;0;0
+237;Neubrandenburg;31,72503684;DE064;DE80J;Mecklenburgische Seenplatte;2;0,77
+238;Fulda;44,0175572;DE065;DE732;Fulda;2;0,9
+239;Kempten (Allgäu);47,64633311;DE066;DE273;Kempten (Allgau), Kreisfreie Stadt;1;1,46
+240;Kempten (Allgäu);47,64633311;DE066;DE27E;Oberallgau;0;0
+241;Landshut;27,00868859;DE067;DE221;Landshut, Kreisfreie Stadt;1;1,4
+242;Landshut;27,00868859;DE067;DE227;Landshut, Landkreis;2;1,27
+243;Rosenheim;44,46822633;DE069;DE213;Rosenheim, Kreisfreie Stadt;0;0
+244;Rosenheim;44,46822633;DE069;DE21K;Rosenheim, Landkreis;1;0,39
+245;Stralsund;24,27440436;DE071;DE80L;Vorpommern-Rugen;3;1,33
+246;Friedrichshafen;44,65848103;DE072;DE147;Bodenseekreis;0;0
+247;Offenburg;55,4294394;DE073;DE134;Ortenaukreis;6;1,41
+248;Görlitz;41,82380012;DE074;DED2D;Gorlitz;1;0,39
+249;Schweinfurt;44,06799482;DE077;DE262;Schweinfurt, Kreisfreie Stadt;0;0
+250;Schweinfurt;44,06799482;DE077;DE265;Bad Kissingen;0;0
+251;Schweinfurt;44,06799482;DE077;DE26B;Schweinfurt, Landkreis;0;0
+252;Greifswald;30,52732562;DE078;DE80N;Vorpommern-Greifswald;0;0
+253;Wetzlar;61,54944214;DE079;DE722;Lahn-Dill-Kreis;0;0
+254;Passau;37,56964666;DE081;DE222;Passau, Kreisfreie Stadt;0;0
+255;Passau;37,56964666;DE081;DE228;Passau, Landkreis;0;0
+256;Dessau-Roßlau;45,55364205;DE082;DEE01;Dessau-Rosslau, Kreisfreie Stadt;1;1,22
+257;Braunschweig-Salzgitter-Wolfsburg;31,34605394;DE083;DE911;Braunschweig, Kreisfreie Stadt;0;0
+258;Braunschweig-Salzgitter-Wolfsburg;31,34605394;DE083;DE912;Salzgitter, Kreisfreie Stadt;0;0
+259;Braunschweig-Salzgitter-Wolfsburg;31,34605394;DE083;DE913;Wolfsburg, Kreisfreie Stadt;1;0,81
+260;Braunschweig-Salzgitter-Wolfsburg;31,34605394;DE083;DE914;Gifhorn;0;0
+261;Braunschweig-Salzgitter-Wolfsburg;31,34605394;DE083;DE917;Helmstedt;1;1,09
+262;Braunschweig-Salzgitter-Wolfsburg;31,34605394;DE083;DE91A;Peine;0;0
+263;Braunschweig-Salzgitter-Wolfsburg;31,34605394;DE083;DE91B;Wolfenbuttel;1;0,83
+264;Mannheim-Ludwigshafen;43,62722859;DE084;DE126;Mannheim, Stadtkreis;4;1,3
+265;Mannheim-Ludwigshafen;43,62722859;DE084;DE715;Bergstrasse;1;0,37
+266;Mannheim-Ludwigshafen;43,62722859;DE084;DEB31;Frankenthal (Pfalz), Kreisfreie Stadt;0;0
+267;Mannheim-Ludwigshafen;43,62722859;DE084;DEB34;Ludwigshafen am Rhein, Kreisfreie Stadt;0;0
+268;Mannheim-Ludwigshafen;43,62722859;DE084;DEB36;Neustadt an der Weinstrasse, Kreisfreie Stadt;1;1,87
+269;Mannheim-Ludwigshafen;43,62722859;DE084;DEB38;Speyer, Kreisfreie Stadt;0;0
+270;Mannheim-Ludwigshafen;43,62722859;DE084;DEB3C;Bad Durkheim;2;1,51
+271;Mannheim-Ludwigshafen;43,62722859;DE084;DEB3I;Rhein-Pfalz-Kreis;0;0
+272;Münster;22,56361854;DE504;DEA33;Munster, Kreisfreie Stadt;2;0,64
+273;Münster;22,56361854;DE504;DEA35;Coesfeld;0;0
+274;Chemnitz;33,29757209;DE505;DED41;Chemnitz, Kreisfreie Stadt;3;1,22
+275;Aachen;46,93396376;DE507;DEA2D;Stadteregion Aachen;6;1,08
+276;Krefeld;29,15032938;DE508;DEA14;Krefeld, Kreisfreie Stadt;0;0
+277;Lübeck;18,58536247;DE510;DEF08;Ostholstein;4;1,99
+278;Kassel;45,50561685;DE513;DE731;Kassel, Kreisfreie Stadt;4;1,99
+279;Kassel;45,50561685;DE513;DE734;Kassel, Landkreis;0;0
+280;Solingen;50,63774768;DE516;DEA19;Solingen, Kreisfreie Stadt;1;0,63
+281;Osnabrück;28,57942554;DE517;DE944;Osnabruck, Kreisfreie Stadt;4;2,43
+282;Osnabrück;28,57942554;DE517;DE94E;Osnabruck, Landkreis;4;1,12
+283;Oldenburg (Oldenburg);25,54141005;DE520;DE943;Oldenburg (Oldenburg), Kreisfreie Stadt;6;3,59
+284;Oldenburg (Oldenburg);25,54141005;DE520;DE946;Ammerland;0;0
+285;Oldenburg (Oldenburg);25,54141005;DE520;DE94D;Oldenburg, Landkreis;0;0
+286;Heidelberg;44,95793909;DE522;DE125;Heidelberg, Stadtkreis;2;1,25
+287;Heidelberg;44,95793909;DE522;DE128;Rhein-Neckar-Kreis;2;0,37
+288;Paderborn;35,59807539;DE523;DEA47;Paderborn;0;0
+289;Würzburg;41,79247901;DE524;DE263;Wurzburg, Kreisfreie Stadt;2;1,58
+290;Würzburg;41,79247901;DE524;DE268;Kitzingen;1;1,11
+291;Würzburg;41,79247901;DE524;DE26A;Main-Spessart;2;1,58
+292;Würzburg;41,79247901;DE524;DE26C;Wurzburg, Landkreis;0;0
+293;Bremerhaven;19,25732618;DE527;DE502;Bremerhaven, Kreisfreie Stadt;0;0
+294;Bremerhaven;19,25732618;DE527;DE932;Cuxhaven;2;1,01
+295;Heilbronn;31,72937626;DE529;DE117;Heilbronn, Stadtkreis;2;1,6
+296;Heilbronn;31,72937626;DE529;DE118;Heilbronn, Landkreis;1;0,29
+297;Remscheid;50,48363045;DE530;DEA18;Remscheid, Kreisfreie Stadt;0;0
+298;Ulm;33,8797292;DE532;DE144;Ulm, Stadtkreis;1;0,8
+299;Ulm;33,8797292;DE532;DE145;Alb-Donau-Kreis;2;1,03
+300;Ulm;33,8797292;DE532;DE279;Neu-Ulm;1;0,58
+301;Pforzheim;49,54872984;DE533;DE129;Pforzheim, Stadtkreis;3;2,41
+302;Pforzheim;49,54872984;DE533;DE12B;Enzkreis;2;1,01
+303;Ingolstadt;34,33278136;DE534;DE211;Ingolstadt, Kreisfreie Stadt;1;0,74
+304;Ingolstadt;34,33278136;DE534;DE219;Eichstatt;1;0,76
+305;Ingolstadt;34,33278136;DE534;DE21I;Neuburg-Schrobenhausen;0;0
+306;Ingolstadt;34,33278136;DE534;DE21J;Pfaffenhofen a. d. Ilm;2;1,58
+307;Gera;32,995663;DE535;DEG02;Gera, Kreisfreie Stadt;2;2,11
+308;Gera;32,995663;DE535;DEG0L;Greiz;1;1,01
+309;Reutlingen;46,6912281;DE537;DE141;Reutlingen;2;0,7
+310;Cottbus;50,06911103;DE539;DE402;Cottbus, Kreisfreie Stadt;0;0
+311;Cottbus;50,06911103;DE539;DE40G;Spree-Neisse;1;0,87
+312;Siegen;70,51116249;DE540;DEA5A;Siegen-Wittgenstein;0;0
+313;Siegen;70,51116249;DE540;DEB13;Altenkirchen (Westerwald);2;1,55
+314;Hildesheim;29,47364097;DE542;DE925;Hildesheim;4;1,45
+315;Zwickau;27,56830184;DE544;DED45;Zwickau;2;0,63
+316;Wuppertal;46,21776666;DE546;DEA1A;Wuppertal, Kreisfreie Stadt;4;1,13
+317;Jena;44,53869351;DE547;DEG03;Jena, Kreisfreie Stadt;1;0,9
+318;Jena;44,53869351;DE547;DEG0J;Saale-Holzland-Kreis;0;0
+319;København;25,47139091;DK001;DK011;Byen Kobenhavn;8;1,03
+320;København;25,47139091;DK001;DK012;Kobenhavns Omegn;4;0,73
+321;København;25,47139091;DK001;DK013;Nordsjaelland;3;0,65
+322;København;25,47139091;DK001;DK021;Ostsjaelland;1;0,4
+323;Århus;25,68046825;DK002;DK042;Ostjylland;7;0,79
+324;Odense;18,09459547;DK003;DK031;Fyn;7;1,41
+325;Aalborg;20,68041747;DK004;DK050;Nordjylland;5;0,85
+326;Tallinn;63,55253201;EE001;EE001;Pohja-Eesti;7;1,18
+327;Tartu;52,92686882;EE002;EE008;Louna-Eesti;4;1,26
+328;Thessaloniki;32,4332922;EL002;EL522;Thessaloniki;6;0,54
+329;Patra;50,24278855;EL003;EL632;AxaIa;4;1,33
+330;Irakleio;34,70832154;EL004;EL431;Irakleio;3;0,96
+331;Larisa;9,999733238;EL005;EL612;Larisa;0;0
+332;Volos;35,59871368;EL006;EL613;Magnisia;1;0,49
+333;Ioannina;55,31123098;EL007;EL543;Ioannina;1;0,6
+334;Kavala;45,46914006;EL008;EL515;Thasos, Kavala;3;2,24
+335;Kalamata;65,71838589;EL009;EL653;Lakonia, Messinia;4;1,61
+336;Madrid;27,44363114;ES001;ES300;Madrid;36;0,55
+337;Barcelona;52,30470597;ES002;ES511;Barcelona;28;0,51
+338;Valencia;43,86999625;ES003;ES523;Valencia / Valencia;5;0,2
+339;Sevilla;28,33841276;ES004;ES618;Sevilla;11;0,57
+340;Zaragoza;9,276020533;ES005;ES243;Zaragoza;7;0,73
+341;Málaga;52,64511673;ES006;ES617;Malaga;21;1,27
+342;Murcia;37,96855279;ES007;ES620;Murcia;11;0,75
+343;Las Palmas;31,17294768;ES008;ES705;Gran Canaria;8;0,93
+344;Valladolid;23,47882821;ES009;ES418;Valladolid;5;0,96
+345;Palma de Mallorca;41,17565883;ES010;ES532;Mallorca;5;0,55
+346;Santiago de Compostela;61,08393436;ES011;ES111;A Coruna;4;0,36
+347;Vitoria/Gasteiz;42,1172768;ES012;ES211;Araba/Alava;2;0,61
+348;Oviedo;47,12184381;ES013;ES120;Asturias;7;0,68
+349;Pamplona/Iruña;46,42822473;ES014;ES220;Navarra;10;1,55
+350;Santander;30,13226321;ES015;ES130;Cantabria;2;0,34
+351;Toledo;26,77149858;ES016;ES425;Toledo;3;0,44
+352;Badajoz;43,09499591;ES017;ES431;Badajoz;3;0,44
+353;Logroño;13,46623023;ES018;ES230;La Rioja;1;0,32
+354;Bilbao;62,95864525;ES019;ES213;Bizkaia;4;0,35
+355;Córdoba;38,158428;ES020;ES613;Cordoba;4;0,51
+356;Alicante/Alacant;11,96581149;ES021;ES521;Alicante / Alacant;14;0,76
+357;Vigo;51,42877515;ES022;ES114;Pontevedra;1;0,11
+358;Santa Cruz de Tenerife;28,28837806;ES025;ES709;Tenerife;14;1,5
+359;Reus;56,83590282;ES028;ES514;Tarragona;8;1,01
+360;Lugo;54,91671568;ES031;ES112;Lugo;1;0,3
+361;Girona;59,92970114;ES033;ES512;Girona;7;0,93
+362;Cáceres;39,75633503;ES034;ES432;Caceres;1;0,25
+363;Palencia;15,79765013;ES041;ES414;Palencia;0;0
+364;Guadalajara;20,89528489;ES048;ES424;Guadalajara;1;0,39
+365;Ciudad Real;24,18431484;ES053;ES422;Ciudad Real;0;0
+366;Ponferrada;49,03764632;ES057;ES413;Leon;1;0,21
+367;Zamora;8,980718768;ES059;ES419;Zamora;1;0,57
+368;Irun;58,70599902;ES070;ES212;Gipuzkoa;0;0
+369;Arrecife;0,80195778;ES072;ES708;Lanzarote;0;0
+370;Granada;45,14076187;ES501;ES614;Granada;15;1,63
+371;Almería;5,506891499;ES514;ES611;Almeria;9;1,28
+372;Burgos;16,77232203;ES515;ES412;Burgos;3;0,84
+373;Salamanca;13,90139924;ES516;ES415;Salamanca;0;0
+374;Albacete;8,037863597;ES519;ES421;Albacete;3;0,77
+375;Castellón/Castelló;52,7990256;ES520;ES522;Castellon / Castello;6;1,05
+376;Jaén;81,44519662;ES527;ES616;Jaen;4;0,63
+377;Lleida;29,41012588;ES528;ES513;Lleida;2;0,47
+378;Ourense;65,09987421;ES529;ES113;Ourense;2;0,65
+379;Helsinki;58,74468183;FI001;FI1B1;Helsinki-Uusimaa;28;1,69
+380;Tampere;65,09245961;FI002;FI197;Pirkanmaa;5;0,98
+381;Turku;58,85469795;FI003;FI1C1;Varsinais-Suomi;4;0,84
+382;Lahti;62,06709692;FI007;FI1C3;Paijat-Hame;3;1,49
+383;Kuopio;67,95881257;FI008;FI1D2;Pohjois-Savo;2;0,81
+384;Jyväskylä;72,30381734;FI009;FI193;Keski-Suomi;4;1,45
+385;Paris;28,90843488;FR001;FR101;Paris;28;1,29
+386;Paris;28,90843488;FR001;FR102;Seine-et-Marne;4;0,28
+387;Paris;28,90843488;FR001;FR103;Yvelines;9;0,62
+388;Paris;28,90843488;FR001;FR104;Essonne;9;0,69
+389;Paris;28,90843488;FR001;FR105;Hauts-de-Seine;14;0,86
+390;Paris;28,90843488;FR001;FR106;Seine-Saint-Denis;20;1,22
+391;Paris;28,90843488;FR001;FR107;Val-de-Marne;8;0,57
+392;Paris;28,90843488;FR001;FR108;Val-d'Oise;6;0,48
+393;Grad Zagreb;52,83724428;HR001;HR041;Grad Zagreb;5;0,62
+394;Grad Zagreb;52,83724428;HR001;HR042;Zagrebacka Zupanija;1;0,32
+395;Grad Zagreb;52,83724428;HR001;HR043;Krapinsko-Zagorska Zupanija;1;0,79
+396;Rijeka;82,35111107;HR002;HR031;Primorsko-Goranska Zupanija;2;0,7
+397;Slavonski Brod;40,57386809;HR003;HR04A;Brodsko-Posavska Zupanija;0;0
+398;Osijek;25,6575391;HR004;HR04B;Osjecko-Baranjska Zupanija;1;0,36
+399;Split;23,97138131;HR005;HR035;Splitsko-Dalmatinska Zupanija;2;0,45
+400;Miskolc;33,79944822;HU002;HU311;Borsod-Abauj-Zemplen;11;1,7
+401;Nyíregyháza;23,95037939;HU003;HU323;Szabolcs-Szatmar-Bereg;3;0,54
+402;Pécs;38,23717252;HU004;HU231;Baranya;2;0,55
+403;Debrecen;33,11189842;HU005;HU321;Hajdu-Bihar;4;0,75
+404;Szeged;22,02972543;HU006;HU333;Csongrad;3;0,75
+405;Gyõr;27,1048052;HU007;HU221;Gyor-Moson-Sopron;5;1,08
+406;Kecskemét;30,43620259;HU008;HU331;Bacs-Kiskun;4;0,79
+407;Székesfehérvár;19,43253795;HU009;HU211;Fejer;2;0,48
+408;Szombathely;33,71206281;HU010;HU222;Vas;2;0,79
+409;Reykjavík;1,558057114;IS001;IS001;Hofudborgarsvaedi;0;0
+410;Reykjavík;1,558057114;IS001;IS002;Landsbyggd;2;1,59
+411;Roma;45,76772355;IT001;ITI43;Roma;18;0,41
+412;Milano;14,79845461;IT002;ITC49;Lodi;0;0
+413;Milano;14,79845461;IT002;ITC4C;Milano;13;0,4
+414;Milano;14,79845461;IT002;ITC4D;Monza e della Brianza;7;0,8
+415;Napoli;41,55246967;IT003;ITF33;Napoli;21;0,68
+416;Torino;33,58680121;IT004;ITC11;Torino;10;0,44
+417;Palermo;29,54129818;IT005;ITG12;Palermo;4;0,32
+418;Genova;79,58947314;IT006;ITC33;Genova;2;0,24
+419;Firenze;68,84018184;IT007;ITI14;Firenze;8;0,79
+420;Bari;58,54452218;IT008;ITF47;Bari;7;0,56
+421;Bologna;29,51321189;IT009;ITH55;Bologna;4;0,4
+422;Catania;39,29722296;IT010;ITG17;Catania;12;1,08
+423;Venezia;11,38340827;IT011;ITH35;Venezia;3;0,35
+424;Verona;24,79309325;IT012;ITH31;Verona;1;0,11
+425;Cremona;6,11352671;IT013;ITC4A;Cremona;3;0,84
+426;Trento;76,70929819;IT014;ITH20;Trento;2;0,37
+427;Trieste;59,84602486;IT015;ITH44;Trieste;4;1,7
+428;Perugia;36,7241809;IT016;ITI21;Perugia;4;0,61
+429;Ancona;13,21184051;IT017;ITI32;Ancona;2;0,42
+430;Pescara;30,99135702;IT019;ITF13;Pescara;2;0,63
+431;Campobasso;39,62267104;IT020;ITF22;Campobasso;0;0
+432;Caserta;44,25537303;IT021;ITF31;Caserta;7;0,76
+433;Taranto;30,90212549;IT022;ITF43;Taranto;2;0,34
+434;Potenza;47,04892836;IT023;ITF51;Potenza;4;1,09
+435;Catanzaro;67,20749537;IT024;ITF63;Catanzaro;4;1,11
+436;Reggio di Calabria;49,86354361;IT025;ITF65;Reggio di Calabria;10;1,81
+437;Padova;10,51659308;IT028;ITH36;Padova;1;0,11
+438;Brescia;25,32739632;IT029;ITC47;Brescia;7;0,55
+439;Modena;12,78794033;IT030;ITH54;Modena;7;1
+440;Foggia;7,249141974;IT031;ITF46;Foggia;11;1,76
+441;Salerno;69,26085782;IT032;ITF35;Salerno;9;0,82
+442;Piacenza;16,54470144;IT033;ITH51;Piacenza;1;0,35
+443;Bolzano;73,52986093;IT034;ITH10;Bolzano-Bozen;4;0,76
+444;Udine;25,00080702;IT035;ITH42;Udine;3;0,57
+445;La Spezia;75,72503518;IT036;ITC34;La Spezia;2;0,91
+446;Lecce;42,65658914;IT037;ITF45;Lecce;6;0,75
+447;Barletta;44,59539618;IT038;ITF48;Barletta-Andria-Trani;5;1,28
+448;Pesaro;23,01704933;IT039;ITI31;Pesaro E Urbino;3;0,83
+449;Como;63,08843075;IT040;ITC42;Como;3;0,5
+450;Pisa;35,65107599;IT041;ITI17;Pisa;1;0,24
+451;Treviso;11,91547015;IT042;ITH34;Treviso;3;0,34
+452;Varese;62,59112981;IT043;ITC41;Varese;1;0,11
+453;Asti;46,04758393;IT045;ITC17;Asti;1;0,46
+454;Pavia;14,80167516;IT046;ITC48;Pavia;0;0
+455;Massa;60,42885549;IT047;ITI11;Massa-Carrara;0;0
+456;Cosenza;75,01501694;IT048;ITF61;Cosenza;6;0,85
+457;Savona;85,43343735;IT052;ITC32;Savona;1;0,36
+458;Matera;26,27338787;IT054;ITF52;Matera;2;1,01
+459;Avellino;78,96207177;IT057;ITF34;Avellino;3;0,71
+460;Pordenone;9,525750154;IT058;ITH41;Pordenone;1;0,32
+461;Lecco;66,33400028;IT060;ITC43;Lecco;1;0,29
+462;Messina;48,15661823;IT501;ITG13;Messina;0;0
+463;Prato;68,90807148;IT502;ITI15;Prato;0;0
+464;Parma;20,88991356;IT503;ITH52;Parma;2;0,44
+465;Livorno;42,47994368;IT504;ITI16;Livorno;1;0,3
+466;Reggio nell'Emilia;20,54367713;IT505;ITH53;Reggio nell'Emilia;0;0
+467;Ravenna;9,878824689;IT506;ITH57;Ravenna;1;0,26
+468;Ferrara;9,92602142;IT507;ITH56;Ferrara;0;0
+469;Rimini;14,6387502;IT508;ITH59;Rimini;1;0,3
+470;Siracusa;43,26410182;IT509;ITG19;Siracusa;4;1
+471;Bergamo;32,17098323;IT511;ITC46;Bergamo;4;0,36
+472;Forlì;34,89429763;IT512;ITH58;Forli-Cesena;2;0,51
+473;Latina;28,33788784;IT513;ITI44;Latina;2;0,35
+474;Vicenza;23,98604115;IT514;ITH32;Vicenza;4;0,46
+475;Terni;59,45534405;IT515;ITI22;Terni;1;0,44
+476;Novara;10,68805607;IT516;ITC15;Novara;0;0
+477;Luxembourg;41,73066399;LU001;LU000;Luxembourg;3;0,5
+478;R?ga;64,95861856;LV001;LV006;Riga;42;6,58
+479;Liep?ja;53,76458919;LV002;LV003;Kurzeme;13;5,35
+480;Jelgava;38,01216924;LV003;LV009;Zemgale;15;6,44
+481;Daugavpils;51,54167785;LV501;LV005;Latgale;31;11,7
+482;Valletta;5,875679723;MT001;MT001;Malta;5;1,13
+483;Oslo;69,39460674;NO001;NO011;Oslo;7;1,04
+484;Oslo;69,39460674;NO001;NO012;Akershus;2;0,33
+485;Oslo;69,39460674;NO001;NO031;Ostfold;1;0,34
+486;Bergen;50,68683008;NO002;NO051;Hordaland;2;0,38
+487;Stavanger;26,45273836;NO004;NO043;Rogaland;3;0,63
+488;Kristiansand;82,49276828;NO005;NO041;Aust-Agder;0;0
+489;Kristiansand;82,49276828;NO005;NO042;Vest-Agder;0;0
+490;Tromsø;26,99523347;NO006;NO072;Troms;0;0
+491;Lisboa;32,66636425;PT001;PT170;Area Metropolitana de Lisboa;29;1,02
+492;Porto;43,17943955;PT002;PT11A;Area Metropolitana do Porto;8;0,47
+493;Braga;45,93388039;PT003;PT112;Cavado;2;0,5
+494;Funchal;51,63328674;PT004;PT300;Regiao Autonoma da Madeira;3;1,18
+495;Coimbra;63,85852713;PT005;PT16E;Regiao de Coimbra;2;0,46
+496;Ponta Delgada;25,3481114;PT007;PT200;Regiao Autonoma dos Acores;4;1,64
+497;Aveiro;41,83512972;PT008;PT16D;Regiao de Aveiro;3;0,83
+498;Faro;33,56928191;PT009;PT150;Algarve;6;1,36
+499;Viseu;59,65328989;PT014;PT16G;Viseu Dao Lafoes;1;0,39
+500;Viana do Castelo;43,37212398;PT016;PT111;Alto Minho;1;0,43
+501;Guimarães;41,84283487;PT505;PT119;Ave;3;0,72
+502;Bucure?ti;19,2871593;RO001;RO321;Bucuresti;29;1,59
+503;Bucure?ti;19,2871593;RO001;RO322;Ilfov;5;1,06
+504;Cluj-Napoca;25,24628927;RO002;RO113;Cluj;5;0,71
+505;Timi?oara;18,48036195;RO003;RO424;Timis;5;0,71
+506;Craiova;20,18379765;RO004;RO411;Dolj;10;1,58
+507;Br?ila;15,6066777;RO005;RO221;Braila;8;2,72
+508;Br?ila;15,6066777;RO005;RO225;Tulcea;2;1,01
+509;Oradea;28,36259392;RO006;RO111;Bihor;4;0,71
+510;Bac?u;38,96960138;RO007;RO211;Bacau;11;1,86
+511;Arad;10,90687674;RO008;RO421;Arad;7;1,67
+512;Sibiu;58,20374323;RO009;RO126;Sibiu;7;1,75
+513;Târgu Mure?;22,92598592;RO010;RO125;Mures;5;0,93
+514;Piatra Neam?;39,54114788;RO011;RO214;Neamt;6;1,34
+515;C?l?ra?i;9,44431583;RO012;RO312;Calarasi;1;0,35
+516;Giurgiu;18,28606024;RO013;RO314;Giurgiu;1;0,37
+517;Alba Iulia;23,64384052;RO014;RO121;Alba;4;1,22
+518;Foc?ani;7,082099197;RO015;RO226;Vrancea;5;1,54
+519;Târgu Jiu;32,93148555;RO016;RO412;Gorj;2;0,63
+520;Târgovi?te;36,78582796;RO018;RO313;Dambovita;0;0
+521;Slatina;13,56157598;RO019;RO414;Olt;9;2,25
+522;Bârlad;18,33602913;RO020;RO216;Vaslui;6;1,58
+523;Bistri?a;38,36221693;RO022;RO112;Bistrita-Nasaud;2;0,71
+524;Constanta;7,316725339;RO501;RO223;Constanta;13;1,92
+525;Iasi;25,51120074;RO502;RO213;Iasi;23;2,9
+526;Galati;9,957627325;RO503;RO224;Galati;14;2,74
+527;Brasov;60,2566054;RO504;RO122;Brasov;4;0,73
+528;Ploiesti;14,05362175;RO505;RO316;Prahova;2;0,28
+529;Pitesti;38,93066029;RO506;RO311;Arges;4;0,68
+530;Baia Mare;68,05757265;RO507;RO114;Maramures;5;1,08
+531;Buzau;20,16800503;RO508;RO222;Buzau;4;0,95
+532;Satu Mare;14,49147777;RO509;RO115;Satu Mare;1;0,3
+533;Botosani;14,26344746;RO510;RO212;Botosani;7;1,82
+534;Ramnicu Valcea;61,90310451;RO511;RO415;Valcea;12;3,4
+535;Suceava;23,28625724;RO512;RO215;Suceava;6;0,96
+536;Drobeta-Turnu Severin;45,30545564;RO513;RO413;Mehedinti;3;1,22
+537;Ljubljana;65,91647411;SI001;SI035;Zasavska;1;1,75
+538;Ljubljana;65,91647411;SI001;SI041;Osrednjeslovenska;3;0,55
+539;Maribor;48,38458381;SI002;SI032;Podravska;2;0,62
+540;Bratislava;45,05505207;SK001;SK010;Bratislavsky kraj;18;2,77
+541;Košice;51,65059464;SK002;SK042;Kosicky kraj;8;1
+542;Banská Bystrica;74,87062066;SK003;SK032;Banskobystricky kraj;6;0,92
+543;Nitra;15,85747941;SK004;SK023;Nitriansky kraj;5;0,74
+544;Prešov;49,87225958;SK005;SK041;Presovsky kraj;2;0,24
+545;Žilina;65,37430623;SK006;SK031;Zilinsky kraj;7;1,01
+546;Trnava;22,49578209;SK007;SK021;Trnavsky kraj;16;2,85
+547;Tren?ín;57,37705112;SK008;SK022;Trenciansky kraj;5;0,85

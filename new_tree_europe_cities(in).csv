@@ -1,0 +1,989 @@
+City name,City code,FUA name,Area in km2,Tree cover [%],Tree cover [km2]
+Oulu / Uleåborg,FI004C3,Oulu,3156,77.54,2447
+Kuopio,FI008C3,Kuopio,3737,64.19,2399
+Umeå,SE005C1,Umeå,2391,81.71,1953
+Uppsala,SE006C1,Uppsala,2248,66.77,1501
+Jönköping,SE004C1,Jönköping,1937,57.90,1122
+Jyväskylä,FI009C1,Jyväskylä,1465,70.67,1036
+Norrköping,SE502C1,Norrköping,1599,59.61,953
+Örebro,SE008C1,Örebro,1631,52.07,849
+Linköping,SE007C1,Linköping,1578,50.89,803
+Cáceres,ES034C1,Cáceres,1750,45.41,795
+Borås,SE505C1,Borås,974,77.98,759
+Tromsø,NO006C1,Tromsø,2516,28.44,715
+Cuenca,ES542C1,Cuenca,911,77.33,704
+Badajoz,ES017C1,Badajoz,1440,40.34,581
+Västerås,SE501C1,Västerås,1142,45.93,524
+Lorca,ES545C1,Lorca,1675,28.56,478
+Mérida,ES546C1,Mérida,866,48.72,422
+Tampere / Tammerfors,FI002C1,Tampere,689,60.33,416
+Córdoba,ES020C1,Córdoba,1255,31.32,393
+Berlin,DE001C1,Berlin,892,43.78,390
+Istanbul(FUA name),TR005C1,Istanbul,193,21.06,41
+Istanbul(FUA name),TR012C1,Istanbul,1851,17.24,319
+Istanbul(FUA name),TR017C1,Istanbul,123,7.51,9
+Murcia,ES007C1,Murcia,886,39.10,346
+Oslo,NO001C1,Oslo,454,72.03,327
+Viseu,PT014C1,Viseu,507,61.50,312
+Roma,IT001C1,Roma,1286,24.08,310
+Jaén,ES527C1,Jaén,424,72.28,307
+Zagreb,HR001C1,Grad Zagreb,641,46.09,296
+Bergen,NO002C1,Bergen,465,59.21,275
+Jerez de la Frontera,ES508C1,Jerez de la Frontera,1188,21.28,253
+Hamburg,DE002C1,Hamburg,739,33.54,248
+Madrid,ES001C1,Madrid,605,39.43,239
+Arezzo,IT519C1,Arezzo,384,58.43,225
+Göteborg,SE002C1,Göteborg,456,48.52,221
+Kristiansand,NO005C1,Kristiansand,274,78.97,217
+Trondheim,NO003C1,Trondheim,342,62.03,212
+Málaga,ES006C1,Málaga,396,53.58,212
+Aalborg,DK004C2,Aalborg,1137,18.12,206
+Warszawa,PL001C1,Warszawa,517,39.66,205
+Andria,IT524C1,Andria,400,49.11,196
+Apeldoorn,NL014C1,Apeldoorn,341,57.33,196
+L'Aquila,IT526C1,L'Aquila,473,41.23,195
+Espoo / Esbo,FI005C1,Helsinki,324,59.93,194
+Baia Mare,RO507C1,Baia Mare,231,83.27,192
+Vilnius,LT001C1,Vilnius,401,47.15,189
+Debrecen,HU005C1,Debrecen,462,39.93,184
+Lugo,ES031C1,Lugo,330,54.60,180
+Coimbra,PT005C1,Coimbra,319,52.52,168
+Ankara(FUA name),TR001C1,Ankara,621,26.65,166
+Sofia,BG001C1,Sofia,450,36.77,165
+Paris,FR001P1,Paris,800,20.44,164
+Miskolc,HU002C1,Miskolc,237,67.36,159
+Sassari,IT026C1,Sassari,547,28.21,154
+Perugia,IT016C1,Perugia,449,33.89,152
+Greater Ede                      ,NL512C2,Ede,351,41.71,146
+Praha,CZ001C1,Praha,496,28.60,142
+Wien,AT001C1,Wien,415,33.77,140
+Viana do Castelo,PT016C1,Viana do Castelo,319,43.76,140
+Genova,IT006C1,Genova,240,57.96,139
+Ljubljana,SI001C1,Ljubljana,275,50.27,138
+Budapest,HU001C1,Budapest,525,26.05,137
+Terni,IT515C1,Terni,212,63.50,135
+Ponferrada,ES057C1,Ponferrada,283,47.20,134
+Bratislava,SK001C1,Bratislava,368,36.11,133
+Linares,ES544C1,Linares,197,67.47,133
+Adana-Mersin(FUA name),TR002C1,Adana-Mersin,363,36.22,131
+Rīga,LV001C1,Rīga,304,43.03,131
+Cartagena,ES506C1,Cartagena,558,23.44,131
+Lund,SE504C1,Malmö,443,29.37,130
+Dresden,DE009C1,Dresden,328,38.80,127
+Köln,DE004C1,Köln,407,30.04,122
+Santiago de Compostela,ES011C1,Santiago de Compostela,220,55.02,121
+Turku / Åbo,FI003C1,Turku,246,48.89,121
+Bitonto,IT062C1,Bari,173,68.65,119
+Szczecin,PL007C1,Szczecin,301,38.89,117
+Grosseto,IT520C1,Grosseto,473,24.06,114
+Dessau-Roßlau,DE082C1,Dessau-Roßlau,246,45.57,112
+Vantaa / Vanda,FI006C1,Helsinki,240,46.56,112
+North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell),UK502C1,Glasgow,472,23.62,112
+Łódź,PL002C1,Łódź,293,37.79,111
+Fréjus,FR099C1,Fréjus,196,56.62,111
+Reggio di Calabria,IT025C1,Reggio di Calabria,237,46.19,109
+Saarbrücken,DE040C1,Saarbrücken,169,63.78,108
+Košice,SK002C1,Košice,244,43.59,106
+Trento,IT014C1,Trento,158,66.93,106
+Guimarães,PT505C1,Guimarães,241,42.72,103
+Izmir(FUA name),TR013C1,Izmir,411,22.47,92
+Izmir(FUA name),TR020C1,Izmir,55,18.01,10
+Tunbridge Wells,UK040C1,London,331,30.91,102
+Guildford,UK033C1,Guildford,271,36.88,100
+Katowice,PL010C1,Katowice,165,60.68,100
+Brno,CZ002C1,Brno,230,43.02,99
+Kaiserslautern,DE044C1,Kaiserslautern,140,69.94,98
+Sliven,BG009C1,Sliven,194,49.78,97
+Brandenburg an der Havel,DE056C1,Brandenburg an der Havel,229,40.82,94
+Greater Rotterdam        ,NL003C2,Rotterdam,563,16.42,92
+Lecce,IT037C1,Lecce,236,38.90,92
+Messina,IT501C1,Messina,211,43.28,91
+Hagen,DE511C1,Ruhrgebiet,160,57.00,91
+Helsinki / Helsingfors,FI001C2,Helsinki,208,43.74,91
+Villingen-Schwenningen,DE051C1,Villingen-Schwenningen,165,54.77,90
+Poznań,PL005C1,Poznań,262,34.50,90
+Cerignola,IT067C1,Cerignola,590,15.23,90
+Århus,DK002C1,Århus,474,18.87,89
+Siracusa,IT509C1,Siracusa,206,43.01,89
+Kraków,PL003C1,Kraków,327,27.14,89
+Gdańsk,PL006C1,Gdańsk,261,33.84,88
+Wrocław,PL004C1,Wrocław,293,29.89,88
+Sintra,PT501C1,Lisboa,319,27.36,87
+Oviedo,ES013C1,Oviedo,187,46.75,87
+Bielefeld,DE017C1,Bielefeld,258,33.65,87
+Antakya(FUA name),TR011C1,Antakya,179,48.56,87
+Celle,DE060C1,Celle,176,49.14,87
+Münster,DE504C1,Münster,303,28.48,86
+Ragusa,IT523C1,Ragusa,442,19.32,85
+Wiesbaden,DE020C1,Wiesbaden,204,41.18,84
+Swansea,UK517C1,Swansea,381,21.89,83
+Stuttgart,DE007C1,Stuttgart,210,39.69,83
+Sagunto,ES547C1,Sagunto,132,62.69,83
+Dortmund,DE010C1,Ruhrgebiet,280,29.48,82
+Pécs,HU004C1,Pécs,163,50.45,82
+Vitoria/Gasteiz,ES012C1,Vitoria/Gasteiz,277,29.45,82
+Leeds,UK003C1,Leeds,552,14.72,81
+Marseille,FR203C1,Marseille,297,27.17,81
+Freiburg im Breisgau,DE027C1,Freiburg im Breisgau,154,52.15,80
+Bydgoszcz,PL008C1,Bydgoszcz,176,45.64,80
+Kecskemét,HU008C1,Kecskemét,323,24.89,80
+Albacete,ES519C1,Albacete,1126,7.12,80
+Gdynia,PL501C1,Gdańsk,135,58.34,79
+Alcoy,ES537C1,Alcoy,130,60.35,78
+Potsdam,DE041C1,Berlin,187,41.74,78
+Paredes,PT017C1,Porto,157,49.74,78
+Braga,PT003C1,Braga,183,42.63,78
+Wuppertal,DE546C1,Wuppertal,168,46.22,78
+Varna,BG003C1,Varna,154,50.41,78
+Lahti / Lahtis,FI007C2,Lahti,155,49.76,77
+Vratsa,BG018C1,Vratsa,148,51.35,76
+Rostock,DE043C1,Rostock,169,44.52,75
+München,DE003C1,München,311,24.13,75
+Hannover,DE013C1,Hannover,204,36.72,75
+Sopron,HU019C1,Sopron,169,44.39,75
+Gondomar,PT504C1,Porto,132,56.78,75
+Siegen,DE540C1,Siegen,115,65.05,75
+Frankfurt am Main,DE005C1,Frankfurt am Main,248,29.99,74
+Rybnik,PL508C1,Rybnik,148,49.87,74
+Chemnitz,DE505C1,Chemnitz,221,33.30,74
+Nîmes,FR044C2,Nîmes,161,45.45,73
+Maribor,SI002C1,Maribor,147,49.22,73
+Ravenna,IT506C1,Ravenna,653,11.01,72
+Braşov,RO504C1,Brasov,153,46.85,72
+Nice,FR205C2,Nice,184,38.34,72
+Karlsruhe,DE035C1,Karlsruhe,174,41.22,72
+Stockholm,SE001C1,Stockholm,210,33.89,71
+Sheffield,UK010C1,Sheffield,368,19.13,70
+Essen,DE006C1,Ruhrgebiet,210,33.24,70
+Asti,IT045C1,Asti,151,45.99,70
+Pisa,IT041C1,Pisa,185,37.44,69
+Tallinn,EE001C1,Tallinn,159,43.30,69
+Darmstadt,DE025C1,Darmstadt,123,55.75,69
+Palma de Mallorca,ES010C1,Palma de Mallorca,208,32.77,68
+Duisburg,DE501C1,Ruhrgebiet,233,29.14,68
+Bonn,DE034C1,Bonn,142,47.89,68
+Marburg,DE053C1,Marburg,124,54.44,68
+Piła,PL034C1,Piła,103,65.29,67
+Barletta,IT038C1,Barletta,148,45.22,67
+Bremen,DE012C1,Bremen,325,20.55,67
+Düsseldorf,DE011C1,Düsseldorf,218,30.64,67
+Bordeaux,FR007C1,Bordeaux,246,27.05,67
+Wolfsburg,DE526C1,Braunschweig-Salzgitter-Wolfsburg,205,32.41,66
+Gijón,ES023C1,Gijón,182,36.57,66
+Setúbal,PT006C1,Lisboa,170,38.64,66
+Elche/Elx,ES505C1,Elche/Elx,326,20.16,66
+Banská Bystrica,SK003C1,Banská Bystrica,103,63.59,66
+Ostrava,CZ003C1,Ostrava,214,30.58,66
+Toledo,ES016C1,Toledo,232,28.13,65
+Guadalajara,ES048C1,Guadalajara,236,27.66,65
+Aachen,DE507C1,Aachen,164,39.68,65
+Falkirk,UK551C1,Falkirk,298,21.79,65
+Tübingen,DE050C1,Tübingen,108,60.00,65
+Namur,BE007C1,Namur,176,36.58,64
+Pontevedra,ES044C1,Pontevedra,118,54.19,64
+Trier,DE026C1,Trier,116,55.09,64
+Liège,BE005C1,Liège,179,35.20,63
+Vila Nova de Gaia,PT502C1,Porto,168,37.26,63
+Zlín,CZ011C1,Zlín,119,52.66,63
+Iserlohn,DE045C1,Iserlohn,125,49.73,62
+Liberec,CZ007C1,Liberec,106,58.49,62
+Livorno,IT504C1,Livorno,104,59.03,61
+Pforzheim,DE533C1,Pforzheim,98,62.18,61
+Zaragoza,ES005C1,Zaragoza,974,6.28,61
+Lübeck,DE510C1,Lübeck,211,28.85,61
+Lleida,ES528C1,Lleida,212,28.32,60
+Bruxelles / Brussel,BE001C1,Bruxelles / Brussel,162,36.92,60
+Leipzig,DE008C1,Leipzig,299,20.03,60
+Palermo,IT005C1,Palermo,160,37.27,60
+Aix-en-Provence,FR202C1,Marseille,187,31.70,59
+Bielsko-Biała,PL506C1,Bielsko-Biała,125,47.69,59
+Jelenia Góra,PL019C1,Jelenia Góra,109,54.20,59
+Cottbus,DE539C1,Cottbus,165,35.59,59
+Lugano,CH009C2,Lugano,77,76.44,59
+Salzgitter,DE536C1,Braunschweig-Salzgitter-Wolfsburg,225,26.00,58
+Frankfurt (Oder),DE029C1,Frankfurt (Oder),148,39.32,58
+Birmingham,UK002C1,West Midlands urban area,268,21.44,57
+Matera,IT054C1,Matera,388,14.80,57
+Trani,IT525C1,Trani,103,55.73,57
+Odense,DK003C1,Odense,305,18.65,57
+Kirklees,UK501C1,Leeds,409,13.84,57
+Toulon,FR032C2,Toulon,145,38.84,57
+Stalowa Wola,PL045C1,Stalowa Wola,83,68.43,56
+Konya(FUA name),TR018C1,Konya,213,26.43,56
+Heidelberg,DE522C1,Heidelberg,109,51.19,56
+Bistriţa,RO022C1,Bistriţa,146,38.02,56
+Marbella,ES533C1,Marbella,117,47.52,56
+Massa,IT047C1,Massa,94,58.96,55
+Alcalá de Guadaíra,ES536C1,Sevilla,285,19.29,55
+Talavera de la Reina,ES040C1,Talavera de la Reina,186,29.54,55
+Savona,IT052C1,Savona,65,83.87,55
+Jena,DE547C1,Jena,115,47.66,55
+Verona,IT012C1,Verona,199,27.43,55
+Nyíregyháza,HU003C1,Nyíregyháza,274,19.81,54
+Braunschweig,DE506C1,Braunschweig-Salzgitter-Wolfsburg,192,28.28,54
+Ávila,ES538C1,Ávila,231,23.44,54
+Castellón de la Plana/Castelló de la Plana,ES520C1,Castellón/Castelló,109,49.76,54
+Lelystad,NL520C1,Lelystad,765,7.05,54
+Faro,PT009C1,Faro,179,30.02,54
+Helsingborg,SE503C1,Helsingborg,347,15.49,54
+Tatabánya,HU012C1,Tatabánya,91,58.00,53
+Klagenfurt,AT006C1,Klagenfurt,120,44.11,53
+Lille,FR009C1,Lille,259,20.41,53
+Cheshire West and Chester,UK568C2,Cheshire West and Chester,473,11.13,53
+Reykjavík,IS001C1,Reykjavík,1044,5.04,53
+Veszprém,HU013C1,Veszprém,127,41.44,53
+Ferrara,IT507C1,Ferrara,405,12.98,53
+Bucureşti,RO001C1,Bucureşti,240,21.89,52
+Aveiro,PT008C1,Aveiro,183,28.55,52
+Barnsley,UK519C1,Sheffield,329,15.86,52
+Lyon,FR003C2,Lyon,220,23.49,52
+Plzeň,CZ004C1,Plzeň,138,37.35,51
+Nürnberg,DE014C1,Nürnberg,188,26.96,51
+Göttingen,DE021C1,Göttingen,117,43.14,50
+Mons,BE009C1,Mons,148,33.92,50
+Toruń,PL013C1,Toruń,116,43.30,50
+Wigan,UK505C1,Greater Manchester,188,26.57,50
+Renfrewshire (Paisley),UK585C1,Glasgow,263,19.03,50
+Szeged,HU006C1,Szeged,281,17.77,50
+Augsburg,DE033C1,Augsburg,146,33.86,50
+Koszalin,PL028C1,Koszalin,98,50.36,50
+Colchester,UK546C1,Colchester,334,14.80,49
+Wałbrzych,PL511C1,Wałbrzych,85,58.34,49
+Edinburgh,UK007C1,Edinburgh,264,18.66,49
+Graz,AT002C1,Graz,129,37.98,49
+Ponta Delgada,PT007C1,Ponta Delgada,233,20.83,49
+Kayseri(FUA name),TR016C1,Kayseri,200,24.28,48
+Mönchengladbach,DE036C1,Mönchengladbach,171,28.36,48
+Ústí nad Labem,CZ005C1,Ústí nad Labem,94,51.46,48
+Kaunas,LT002C1,Kaunas,157,30.64,48
+Brindisi,IT521C1,Brindisi,328,14.64,48
+Bisceglie,IT065C1,Bisceglie,69,69.20,47
+Zürich,CH001C1,Zürich,88,53.61,47
+Arnhem,NL009C2,Arnhem,109,43.20,47
+Beograd(FUA name),RS001C1,Beograd,212,22.19,47
+Algeciras,ES532C1,Algeciras,86,54.68,47
+Shumen,BG011C1,Shumen,136,34.16,46
+Greater 's-Gravenhage,NL001C2,s' Gravenhage,159,29.12,46
+Koblenz,DE042C1,Koblenz,106,43.71,46
+Cluj-Napoca,RO002C1,Cluj-Napoca,179,25.70,46
+Bergisch Gladbach,DE541C1,Köln,83,54.08,45
+Paderborn,DE523C1,Paderborn,180,25.03,45
+Solingen,DE516C1,Solingen,89,50.53,45
+Catanzaro,IT024C1,Catanzaro,112,40.15,45
+Gyõr,HU007C1,Gyõr,175,25.59,45
+Gera,DE535C1,Gera,152,29.31,45
+Erfurt,DE032C1,Erfurt,270,16.43,44
+Elbląg,PL512C1,Elbląg,80,55.46,44
+Kassel,DE513C1,Kassel,104,42.27,44
+Bradford,UK005C1,Leeds,367,11.94,44
+Trieste,IT015C1,Trieste,85,51.44,44
+Chelmsford,UK544C1,London,343,12.68,43
+Venlo,NL515C1,Venlo,129,33.74,43
+Greater Amsterdam     ,NL002C2,Amsterdam,303,14.13,43
+Molfetta,IT063C1,Bari,58,73.32,43
+Innsbruck,AT005C1,Innsbruck,105,40.66,43
+Piatra Neamţ,RO011C1,Piatra Neamţ,77,55.39,43
+Catania,IT010C1,Catania,182,23.42,43
+Antalya(FUA name),TR003C1,Antalya,227,18.72,43
+Częstochowa,PL024C1,Częstochowa,160,26.62,43
+Almere,NL011C1,Amsterdam,249,17.01,42
+Manchester,UK008C1,Greater Manchester,116,36.58,42
+Firenze,IT007C1,Firenze,102,41.23,42
+Kielce,PL012C1,Kielce,110,38.10,42
+Stockport,UK507C1,Greater Manchester,126,33.08,42
+Bochum,DE015C1,Ruhrgebiet,145,28.76,42
+Schwerin,DE031C1,Schwerin,130,31.99,42
+Râmnicu Vâlcea,RO511C1,Ramnicu Valcea,88,46.93,41
+Wakefield,UK503C1,Leeds,339,12.21,41
+Warwick,UK564C1,Coventry,283,14.51,41
+Potenza,IT023C1,Potenza,174,23.45,41
+Rotherham,UK514C1,Sheffield,287,14.20,41
+Enschede,NL008C1,Enschede,143,28.49,41
+Zalaegerszeg,HU018C1,Zalaegerszeg,102,39.68,41
+Toulouse,FR004C2,Toulouse,208,19.51,41
+Włocławek,PL513C1,Włocławek,84,47.76,40
+Sosnowiec,PL502C1,Katowice,91,44.16,40
+Eger,HU016C1,Eger,92,43.53,40
+Greater Soest                   ,NL529C1,Soest,80,50.15,40
+Krefeld,DE508C1,Krefeld,136,29.18,40
+Gliwice,PL503C1,Katowice,134,29.73,40
+Hamm,DE514C1,Ruhrgebiet,227,17.54,40
+Valongo,PT015C1,Porto,75,52.93,40
+Saint-Etienne,FR011C1,Saint-Etienne,96,41.42,40
+Bari,IT008C1,Bari,116,34.12,40
+Trenčín,SK008C1,Trenčín,82,48.26,40
+Olsztyn,PL014C1,Olsztyn,88,44.20,39
+Altamura,IT061C1,Altamura,427,9.13,39
+Osnabrück,DE517C1,Osnabrück,120,32.43,39
+Bolton,UK511C1,Greater Manchester,140,27.84,39
+Greater Haarlem           ,NL501C2,Amsterdam,132,29.40,39
+Valladolid,ES009C1,Valladolid,198,19.54,39
+Bromley,UK106C1,London,150,25.72,39
+Hanau,DE047C1,Frankfurt am Main,77,49.87,38
+Latina,IT513C1,Latina,277,13.83,38
+Torino,IT004C1,Torino,130,29.38,38
+Magdeburg,DE019C1,Magdeburg,200,19.09,38
+Vigo,ES022C1,Vigo,109,34.84,38
+Nantes,FR008C1,Nantes,151,25.12,38
+Strasbourg,FR006C2,Strasbourg,134,28.15,38
+Ruda Śląska,PL507C1,Katowice,78,48.42,38
+Ourense,ES529C1,Ourense,85,44.31,37
+Lublin,PL009C1,Lublin,147,25.34,37
+Remscheid,DE530C1,Remscheid,74,50.51,37
+Ruse,BG006C1,Ruse,130,28.60,37
+Zielona Góra,PL018C1,Zielona Góra,58,63.45,37
+Greater Heerlen              ,NL010C2,Heerlen,109,33.60,37
+Tours,FR035C2,Tours,131,27.94,37
+Ferrol,ES043C1,Ferrol,83,44.11,36
+Pleven,BG005C1,Pleven,85,42.56,36
+Ulm,DE532C1,Ulm,119,30.29,36
+Karlovy Vary,CZ013C1,Karlovy Vary,59,61.47,36
+Jihlava,CZ014C1,Jihlava,88,40.75,36
+Winterthur,CH006C1,Winterthur,68,52.25,36
+Aberdeen,UK016C1,Aberdeen,187,18.95,35
+Newcastle-under-Lyme,UK565C1,Stoke-on-Trent,211,16.79,35
+Hradec Králové,CZ009C1,Hradec Králové,106,33.28,35
+Stara Zagora,BG008C1,Stara Zagora,85,41.28,35
+Newport,UK558C1,Newport,192,18.34,35
+Bottrop,DE528C1,Ruhrgebiet,100,34.89,35
+Terrassa,ES512C1,Barcelona,70,49.71,35
+La Spezia,IT036C1,La Spezia,51,67.47,35
+Taranto,IT022C1,Taranto,247,14.04,35
+Mannheim,DE502C1,Mannheim-Ludwigshafen,145,23.87,35
+Białystok,PL011C1,Białystok,102,33.85,35
+Gateshead,UK530C1,Newcastle upon Tyne,144,24.06,35
+Wetzlar,DE079C1,Wetzlar,76,45.34,34
+Kiel,DE039C1,Kiel,112,30.59,34
+Gent,BE003C1,Gent,158,21.74,34
+Plauen,DE063C1,Plauen,102,33.78,34
+Antwerpen,BE002C1,Antwerpen,204,16.74,34
+Passau,DE081C1,Passau,70,48.51,34
+Halle an der Saale,DE018C1,Halle an der Saale,136,24.93,34
+Ciudad Real,ES053C1,Ciudad Real,285,11.84,34
+Charleroi,BE004C1,Charleroi,103,32.61,34
+Bologna,IT009C1,Bologna,141,23.82,34
+Torrent,ES553C1,Valencia,69,48.38,34
+Szolnok,HU011C1,Szolnok,187,17.84,33
+Glasgow,UK004C1,Glasgow,175,19.04,33
+Narva,EE003C1,Narva,69,48.40,33
+Greater Eindhoven        ,NL005C2,Eindhoven,121,27.60,33
+Friedrichshafen,DE072C1,Friedrichshafen,70,47.52,33
+Mülheim a.d.Ruhr,DE022C1,Ruhrgebiet,91,36.48,33
+Martigues,FR324C1,Martigues,86,38.70,33
+Lüneburg,DE058C1,Lüneburg,71,46.71,33
+Pernik,BG012C1,Sofia,85,38.87,33
+Zabrze,PL504C1,Katowice,80,41.13,33
+Napoli,IT003C1,Napoli,118,27.92,33
+Bolzano,IT034C1,Bolzano,52,63.14,33
+Besançon,FR025C1,Besançon,65,50.46,33
+Granada,ES501C1,Granada,88,37.40,33
+Salerno,IT032C1,Salerno,60,55.13,33
+Fulda,DE065C1,Fulda,104,31.58,33
+Dos Hermanas,ES531C1,Sevilla,160,20.29,33
+Arad,RO008C1,Arad,253,12.82,32
+Solihull,UK527C1,West Midlands urban area,178,18.06,32
+San Sebastián/Donostia,ES510C1,Donostia-San Sebastián,61,52.80,32
+Funchal,PT004C1,Funchal,75,42.42,32
+Tilburg,NL006C1,Tilburg,119,26.69,32
+Tychy,PL509C1,Katowice,82,38.78,32
+Trafford,UK524C1,Greater Manchester,106,29.82,32
+Rochdale,UK526C1,Greater Manchester,158,19.87,31
+Cardiff,UK009C1,Cardiff,141,22.29,31
+Salford,UK522C1,Greater Manchester,97,32.26,31
+Klaipėda,LT501C1,Klaipėda,88,35.54,31
+Daugavpils,LV501C1,Daugavpils,72,43.33,31
+Reutlingen,DE537C1,Reutlingen,86,36.37,31
+Sibiu,RO009C1,Sibiu,118,26.49,31
+Žilina,SK006C1,Žilina,80,38.93,31
+Zonguldak(FUA name),TR026C1,Zonguldak,72,43.13,31
+Grenoble,FR026C2,Grenoble,81,37.85,31
+Gelsenkirchen,DE503C1,Ruhrgebiet,105,29.12,31
+Gaziantep(FUA name),TR010C1,Gaziantep,145,21.13,31
+Kaposvár,HU015C1,Kaposvár,114,26.91,31
+Cannock Chase,UK054C1,West Midlands urban area,79,38.71,31
+Santa Cruz de Tenerife,ES025C1,Santa Cruz de Tenerife,151,20.27,31
+Rugby,UK581C1,Coventry,354,8.61,30
+Lecco,IT060C1,Lecco,45,67.36,30
+Deventer,NL513C1,Deventer,134,22.61,30
+Forlì,IT512C1,Forlì,228,13.23,30
+Seixal,PT010C1,Lisboa,89,33.63,30
+Weimar,DE030C1,Weimar,84,35.58,30
+Prato,IT502C1,Prato,97,30.81,30
+Prešov,SK005C1,Prešov,70,42.55,30
+Sant Cugat del Vallès,ES049C1,Barcelona,48,62.03,30
+Varese,IT043C1,Varese,55,54.42,30
+Gießen,DE057C1,Gießen,73,40.90,30
+Pesaro,IT039C1,Pesaro,127,23.46,30
+Aschaffenburg,DE061C1,Aschaffenburg,62,47.87,30
+Würzburg,DE524C1,Würzburg,88,33.77,30
+Annecy,FR048C1,Annecy,70,42.37,30
+Rouen,FR215C2,Rouen,109,27.11,30
+Witten,DE543C1,Ruhrgebiet,73,40.25,29
+Tulcea,RO017C1,Tulcea,200,14.70,29
+Most,CZ016C1,Most,87,33.57,29
+Konstanz,DE054C1,Konstanz,54,53.85,29
+Oradea,RO006C1,Oradea,113,25.82,29
+Eskişehir(FUA name),TR027C1,Eskişehir,112,25.86,29
+Bytom,PL505C1,Katowice,69,41.61,29
+Ancona,IT017C1,Ancona,125,23.14,29
+Alba Iulia,RO014C1,Alba Iulia,100,28.75,29
+Brugge,BE006C1,Brugge,139,20.67,29
+Timişoara,RO003C1,Timişoara,129,22.04,28
+Wirral,UK030C1,Liverpool,157,18.09,28
+Breda,NL012C1,Breda,129,22.05,28
+Linz,AT003C1,Linz,96,29.51,28
+Osijek,HR004C1,Osijek,175,16.21,28
+Hildesheim,DE542C1,Hildesheim,93,30.31,28
+Burgas,BG004C1,Burgas,255,11.03,28
+Belfast,UK012C2,Belfast,138,20.43,28
+Inverclyde (Greenock),UK584C1,Glasgow,162,17.28,28
+St Albans,UK563C1,London,161,17.20,28
+Oldham,UK521C1,Greater Manchester,142,19.42,28
+Ingolstadt,DE534C1,Ingolstadt,134,20.71,28
+Trapani,IT522C1,Trapani,273,10.14,28
+Irun,ES070C1,Irun,42,65.77,27
+Bury,UK534C1,Greater Manchester,100,27.50,27
+Offenburg,DE073C1,Offenburg,78,35.12,27
+Kahramanmaraş(FUA name),TR029C1,Kahramanmaraş,100,27.40,27
+Bern,CH004C1,Bern,52,52.72,27
+Satu Mare,RO509C1,Satu Mare,150,18.13,27
+Orléans,FR019C1,Orléans,96,28.27,27
+Mulhouse,FR040C2,Mulhouse,76,35.45,27
+Békéscsaba,HU014C1,Békéscsaba,194,13.93,27
+Zwickau,DE544C1,Zwickau,103,26.02,27
+Limoges,FR024C2,Limoges,100,26.49,26
+Caserta,IT021C1,Caserta,54,49.19,26
+Zadar,HR007C1,Zadar,82,32.41,26
+Drobeta-Turnu Severin,RO513C1,Drobeta-Turnu Severin,70,37.45,26
+Jelgava,LV003C1,Jelgava,61,42.99,26
+Tarragona,ES525C1,Tarragona,55,46.96,26
+Oldenburg (Oldenburg),DE520C1,Oldenburg (Oldenburg),104,24.85,26
+Alicante/Alacant,ES021C1,Alicante/Alacant,201,12.75,26
+Nancy,FR016C1,Nancy,69,37.04,26
+Palencia,ES041C1,Palencia,95,26.74,25
+Pau,FR045C2,Pau,66,38.33,25
+Radom,PL025C1,Radom,112,22.65,25
+Rozas de Madrid Las,ES047C1,Madrid,58,43.28,25
+Galaţi,RO503C1,Galati,246,10.22,25
+Modena,IT030C1,Modena,183,13.65,25
+Pula - Pola,HR006C1,Pula - Pola,53,47.00,25
+Barcelona,ES002C1,Barcelona,98,25.32,25
+Greater Utrecht              ,NL004C2,Utrecht,147,16.95,25
+Târgu Jiu,RO016C1,Târgu Jiu,104,23.67,25
+Gandia,ES046C1,Gandia,61,40.40,25
+Oberhausen,DE509C1,Ruhrgebiet,77,31.72,25
+Erlangen,DE545C1,Nürnberg,78,31.25,24
+Sindelfingen,DE068C1,Stuttgart,51,47.89,24
+Stockton-on-Tees,UK536C1,Middlesbrough,205,11.82,24
+Eastleigh,UK579C1,Southampton,80,30.25,24
+Olomouc,CZ006C1,Olomouc,103,23.40,24
+Dublin,IE001C1,Dublin,118,20.47,24
+Venezia,IT011C1,Venezia,158,15.13,24
+Blackburn with Darwen,UK557C1,Blackburn with Darwen,137,17.36,24
+Brescia,IT029C1,Brescia,90,26.16,24
+Heilbronn,DE529C1,Heilbronn,101,23.48,24
+Piotrków Trybunalski,PL032C1,Piotrków Trybunalski,67,34.72,23
+Grudziądz,PL517C1,Grudziądz,58,40.24,23
+Milano,IT002C1,Milano,182,12.78,23
+Bayonne,FR046C2,Bayonne,65,35.92,23
+Kalamata,EL009C2,Kalamata,43,54.45,23
+Liepāja,LV002C1,Liepāja,61,37.87,23
+Bamberg,DE062C1,Bamberg,55,41.67,23
+Leverkusen,DE519C1,Köln,79,29.03,23
+Bergen op Zoom,NL028C1,Bergen op Zoom,93,24.46,23
+Wilhelmshaven,DE048C1,Wilhelmshaven,108,21.19,23
+Karviná,CZ017C1,Ostrava,58,39.44,23
+Pardubice,CZ010C1,Pardubice,83,27.39,23
+Nitra,SK004C1,Nitra,100,22.51,23
+Bayreuth,DE059C1,Bayreuth,67,33.67,23
+Rzeszów,PL015C1,Rzeszów,116,19.36,23
+Neubrandenburg,DE064C1,Neubrandenburg,86,26.06,22
+Almada,PT012C1,Lisboa,70,31.69,22
+Iaşi,RO502C1,Iasi,94,23.71,22
+Chomutov-Jirkov,CZ018C2,Chomutov-Jirkov,46,47.84,22
+Neuss,DE521C1,Düsseldorf,99,22.41,22
+Székesfehérvár,HU009C1,Székesfehérvár,171,12.95,22
+Acireale,IT056C1,Acireale,40,55.31,22
+Reggio nell'Emilia,IT505C1,Reggio nell'Emilia,231,9.57,22
+Offenbach am Main,DE531C1,Frankfurt am Main,45,48.67,22
+Cosenza,IT048C1,Cosenza,38,58.39,22
+Hilversum,NL018C1,Amsterdam,46,47.03,22
+Hillingdon,UK117C1,London,116,18.83,22
+Tameside,UK523C1,Greater Manchester,103,21.07,22
+Szombathely,HU010C1,Szombathely,97,22.31,22
+Reus,ES028C1,Reus,53,40.98,22
+Greater Sittard-Geleen  ,NL016C2,Sittard-Geleen,103,20.91,22
+Girona,ES033C1,Girona,39,55.61,22
+Salzburg,AT004C1,Salzburg,66,32.76,21
+Sevilla,ES004C1,Sevilla,141,15.19,21
+Croydon,UK108C1,London,87,24.66,21
+Oss,NL521C1,Oss,171,12.39,21
+Płock,PL026C1,Płock,88,24.01,21
+Leuven,BE008C1,Leuven,58,36.49,21
+Lausanne,CH005C1,Lausanne,41,50.64,21
+Żory,PL023C1,Jastrzębie-Zdrój,65,32.41,21
+Jastrzębie-Zdrój,PL030C1,Jastrzębie-Zdrój,85,24.49,21
+Avellino,IT057C1,Avellino,30,68.62,21
+Pátra,EL003C2,Patra,58,36.07,21
+Rijeka,HR002C1,Rijeka,43,47.92,21
+Pozuelo de Alarcón,ES036C1,Madrid,43,48.15,21
+Vila Franca de Xira,PT508C1,Lisboa,296,7.00,21
+Woking,UK052C1,London,64,32.56,21
+Esslingen am Neckar,DE046C1,Stuttgart,47,44.16,21
+Barnet,UK103C1,London,87,23.23,20
+Diyarbakır(FUA name),TR007C1,Diyarbakır,114,17.50,20
+Cǎlǎraşi,RO012C1,Cǎlǎraşi,131,14.98,20
+Slavonski Brod,HR003C1,Slavonski Brod,54,36.19,20
+Cherbourg,FR069C1,Cherbourg,68,28.78,19
+Valencia,ES003C1,Valencia,135,14.46,19
+Stavanger,NO004C1,Stavanger,71,27.44,19
+Landshut,DE067C1,Landshut,66,29.24,19
+Poole,UK555C1,Bournemouth,68,28.52,19
+Luxembourg,LU001C1,Luxembourg,52,37.32,19
+Sarajevo(FUA name),BA001C1,Sarajevo,69,27.84,19
+Veliko Tarnovo,BG017C1,Veliko Tarnovo,30,63.50,19
+Como,IT040C1,Como,37,51.65,19
+Kladno,CZ012C1,Praha,37,51.65,19
+Alcalá de Henares,ES511C1,Madrid,88,21.70,19
+St. Gallen,CH007C1,St. Gallen,40,47.77,19
+Gorzów Wielkopolski,PL017C1,Gorzów Wielkopolski,86,21.95,19
+Šiauliai,LT502C1,Šiauliai,81,23.16,19
+Opole,PL016C1,Opole,97,19.46,19
+Parma,IT503C1,Parma,261,7.09,18
+Walsall,UK512C1,West Midlands urban area,104,17.71,18
+Gravesham,UK020C1,London,99,18.59,18
+Aydın(FUA name),TR037C1,Aydın,74,24.87,18
+Clermont-Ferrand,FR022C2,Clermont-Ferrand,75,24.10,18
+Dudley,UK504C1,West Midlands urban area,98,18.52,18
+St. Helens,UK537C1,Liverpool,136,13.28,18
+'s-Hertogenbosch,NL503C1,s-Hertogenbosch,118,15.35,18
+Zgierz,PL050C1,Łódź,42,42.64,18
+Greater Nissewaard      ,NL021C2,Rotterdam,142,12.69,18
+Metz,FR017C2,Metz,74,24.26,18
+Sefton,UK508C1,Liverpool,153,11.71,18
+Angers,FR036C2,Angers,76,23.54,18
+Tarnów,PL514C1,Tarnów,72,24.72,18
+Cerdanyola del Vallès,ES061C1,Barcelona,31,57.87,18
+Colmar,FR506C1,Colmar,66,26.82,18
+Malatya(FUA name),TR019C1,Malatya,85,20.92,18
+Preston,UK562C1,Preston,143,12.38,18
+Düren Stadt,DE548C1,Düren,85,20.82,18
+Kadirli(FUA name),TR049C1,Kadirli,28,63.16,18
+Zamora,ES059C1,Zamora,149,11.82,18
+Béziers,FR063C2,Béziers,96,18.38,18
+Roosendaal,NL020C1,Roosendaal,107,16.39,18
+Przemyśl,PL040C1,Przemyśl,46,38.02,18
+Plovdiv,BG002C1,Plovdiv,102,17.14,17
+Neu-Ulm,DE076C1,Ulm,81,21.57,17
+Görlitz,DE074C1,Görlitz,67,25.70,17
+Chambéry,FR058C2,Chambéry,46,37.82,17
+Alytus,LT004C1,Alytus,39,43.83,17
+San Cristóbal de la Laguna,ES524C1,Santa Cruz de Tenerife,102,16.88,17
+Bagheria,IT071C1,Palermo,30,57.88,17
+Tomaszów Mazowiecki,PL046C1,Tomaszów Mazowiecki,41,41.53,17
+Póvoa de Varzim,PT019C1,Póvoa de Varzim,82,20.70,17
+Newcastle upon Tyne,UK013C1,Newcastle upon Tyne,115,14.82,17
+Nowy Sącz,PL020C1,Nowy Sącz,58,29.35,17
+Târgu Mureş,RO010C1,Târgu Mureş,49,34.16,17
+Słupsk,PL029C1,Słupsk,43,38.89,17
+Kavala,EL008C2,Kavala,38,44.64,17
+Neumünster,DE055C1,Neumünster,71,23.61,17
+Foggia,IT031C1,Foggia,506,3.30,17
+Legnica,PL516C1,Legnica,56,29.57,17
+Trabzon(FUA name),TR024C1,Trabzon,70,23.70,17
+Ostrowiec Świętokrzyski,PL036C1,Ostrowiec Świętokrzyski,46,35.51,16
+Dunkerque,FR042C1,Dunkerque,77,21.35,16
+Havering,UK116C1,London,112,14.55,16
+Bristol,UK011C1,Bristol,111,14.67,16
+Plymouth,UK516C1,Plymouth,81,20.09,16
+Avignon,FR039C2,Avignon,76,21.42,16
+Bremerhaven,DE527C1,Bremerhaven,77,20.96,16
+Bocholt Stadt,DE549C1,Bocholt,119,13.53,16
+Le Havre,FR012C1,Le Havre,86,18.72,16
+Flensburg,DE052C1,Flensburg,49,32.75,16
+Isparta(FUA name),TR033C1,Isparta,64,25.23,16
+Basildon,UK538C1,London,110,14.59,16
+Assen,NL522C1,Assen,83,19.30,16
+Ordu(FUA name),TR040C1,Ordu,74,21.89,16
+Lemesos,CY501C1,Lemesos,210,7.61,16
+Constanţa,RO501C1,Constanta,126,12.71,16
+Belfort,FR076C2,Belfort,35,45.91,16
+Leeuwarden,NL015C1,Leeuwarden,170,9.34,16
+Greater Alkmaar ,NL514C2,Alkmaar,176,8.97,16
+Yambol,BG013C1,Yambol,91,17.45,16
+Dobrich,BG010C1,Dobrich,109,14.50,16
+Liverpool,UK006C1,Liverpool,112,13.89,16
+Tokat(FUA name),TR059C1,Tokat,33,47.14,16
+Konin,PL022C1,Konin,82,18.84,15
+Skopje(FUA name),MK001C1,Skopje,101,15.28,15
+Samsun(FUA name),TR022C1,Samsun,104,14.51,15
+Helmond,NL516C1,Eindhoven,55,27.64,15
+Osmaniye(FUA name),TR035C1,Osmaniye,30,50.13,15
+Rimini,IT508C1,Rimini,135,11.07,15
+Dundee City,UK550C1,Dundee City,60,24.88,15
+Şanlıurfa(FUA name),TR028C1,Şanlıurfa,72,20.72,15
+Haskovo,BG014C1,Haskovo,96,15.51,15
+Northampton,UK528C1,Northampton,81,18.31,15
+Montpellier,FR010C1,Montpellier,68,21.68,15
+København,DK001C1,København,91,16.31,15
+Nijmegen,NL013C1,Nijmegen,58,25.60,15
+Zwolle,NL511C1,Zwolle,119,12.34,15
+Hengelo,NL517C1,Enschede,62,23.81,15
+Richmond upon Thames,UK127C1,London,58,25.29,15
+Giugliano in Campania,IT517C1,Napoli,94,15.55,15
+San Sebastián de los Reyes,ES058C1,Madrid,59,24.69,15
+Kempten (Allgäu),DE066C1,Kempten (Allgäu),63,23.16,15
+Speyer,DE080C1,Mannheim-Ludwigshafen,43,34.11,15
+Lisboa,PT001C1,Lisboa,86,16.82,15
+Regensburg,DE028C1,Regensburg,80,18.24,15
+Fareham,UK036C1,Portsmouth,75,19.46,15
+Barakaldo,ES027C1,Bilbao,29,49.35,15
+Adıyaman(FUA name),TR055C1,Adıyaman,31,46.86,15
+Lens - Liévin,FR207C1,Lens - Liévin,69,18.89,14
+Almería,ES514C1,Almería,296,4.87,14
+Târgovişte,RO018C1,Târgovişte,55,26.18,14
+Piteşti,RO506C1,Pitesti,41,34.44,14
+Malmö,SE003C1,Malmö,158,8.89,14
+Stoke-on-trent,UK027C1,Stoke-on-Trent,93,14.89,14
+Groningen,NL007C1,Groningen,84,16.56,14
+Greater Leiden                ,NL507C2,Leiden,81,17.13,14
+Moers,DE023C1,Ruhrgebiet,68,20.15,14
+Campobasso,IT020C1,Campobasso,56,24.52,14
+Douai,FR209C2,Douai,66,20.88,14
+Recklinghausen,DE525C1,Ruhrgebiet,67,20.52,14
+Elâzığ(FUA name),TR032C1,Elâzığ,51,26.61,14
+Sandwell,UK509C1,West Midlands urban area,86,15.75,13
+Suwałki,PL021C1,Suwałki,66,20.56,13
+Rivas-Vaciamadrid,ES555C1,Madrid,67,19.85,13
+Dunaújváros,HU017C1,Dunaújváros,53,25.12,13
+Mainz,DE037C1,Mainz,98,13.46,13
+Lubin,PL033C1,Lubin,41,32.02,13
+Carpi,IT066C1,Carpi,131,9.90,13
+Burgos,ES515C1,Burgos,107,12.11,13
+Biel/Bienne,CH010C1,Biel/Bienne,21,61.14,13
+Tirana(FUA name),AL001C1,Tirana,102,12.66,13
+Benidorm,ES054C1,Benidorm,39,33.48,13
+Craiova,RO004C1,Craiova,81,15.76,13
+Coventry,UK025C1,Coventry,99,12.96,13
+Bilbao,ES019C1,Bilbao,41,30.79,13
+Las Palmas,ES008C1,Las Palmas,101,12.65,13
+Paterna,ES551C1,Valencia,36,35.36,13
+Kortrijk,BE010C1,Kortrijk,81,15.67,13
+Amersfoort,NL504C1,Amersfoort,64,19.77,13
+Rubí,ES052C1,Barcelona,32,39.13,13
+Enfield,UK110C1,London,82,15.31,13
+Amiens,FR014C2,Amiens,57,22.17,13
+Bourges,FR065C2,Bourges,69,18.33,13
+Derby,UK518C1,Derby,78,16.06,13
+Van(FUA name),TR025C1,Van,68,18.41,12
+Maastricht,NL505C1,Maastricht,60,20.78,12
+Burnley,UK050C1,Burnley,111,11.16,12
+Fürth,DE538C1,Nürnberg,63,19.49,12
+Hartlepool,UK053C1,Middlesbrough,94,13.02,12
+Thurrock,UK032C1,London,164,7.48,12
+Greifswald,DE078C1,Greifswald,51,23.99,12
+Rize(FUA name),TR046C1,Rize,32,37.80,12
+Stargard Szczeciński,PL038C1,Stargard Szczeciński,48,25.29,12
+Herne,DE515C1,Ruhrgebiet,51,23.60,12
+Greater Heemskerk       ,NL528C1,Amsterdam,69,17.53,12
+Gela,IT069C1,Gela,278,4.32,12
+Nottingham,UK029C1,Nottingham,75,16.04,12
+České Budějovice,CZ008C1,České Budějovice,55,21.26,12
+Pavia,IT046C1,Pavia,63,18.46,12
+Kalisz,PL027C1,Kalisz,69,16.70,12
+Alcobendas,ES535C1,Madrid,45,25.44,12
+Wolverhampton,UK028C1,West Midlands urban area,70,16.55,12
+Alessandria,IT518C1,Alessandria,204,5.62,11
+Chorzów,PL515C1,Katowice,33,34.33,11
+Padova,IT028C1,Padova,93,12.21,11
+Valenciennes,FR034C2,Valenciennes,59,19.10,11
+Saint-Brieuc,FR066C1,Saint-Brieuc,61,18.71,11
+Logroño,ES018C1,Logroño,79,14.36,11
+Poitiers,FR021C2,Poitiers,52,21.90,11
+Saint-Nazaire,FR052C2,Saint-Nazaire,48,23.53,11
+Manresa,ES050C1,Manresa,42,26.95,11
+Majadahonda,ES067C1,Madrid,39,28.84,11
+Leicester,UK014C1,Leicester,73,15.12,11
+Split,HR005C1,Split,80,13.79,11
+Greater Middelburg      ,NL032C2,Middelburg      ,88,12.44,11
+Ludwigshafen am Rhein,DE518C1,Mannheim-Ludwigshafen,78,14.09,11
+Bergamo,IT511C1,Bergamo,40,27.26,11
+Melun,FR304C1,Melun,28,39.46,11
+Haarlemmermeer,NL508C1,Amsterdam,185,5.89,11
+Vicenza,IT514C1,Vicenza,81,13.51,11
+Ostrów Wielkopolski,PL039C1,Ostrów Wielkopolski,42,25.79,11
+Hyndburn,UK057C1,Blackburn with Darwen,73,14.78,11
+Luzern,CH008C1,Luzern,29,36.62,11
+Alphen aan den Rijn,NL026C1,Alphen aan den Rijn,132,8.11,11
+Giurgiu,RO013C1,Giurgiu,53,20.27,11
+Anzio,IT072C1,Roma,44,24.51,11
+Pabianice,PL043C1,Pabianice,33,32.14,11
+Telde,ES029C1,Las Palmas,102,10.34,11
+Suceava,RO512C1,Suceava,52,20.25,10
+Stralsund,DE071C1,Stralsund,39,26.21,10
+Brighton and Hove,UK515C1,Brighton and Hove,83,12.42,10
+Matosinhos,PT503C1,Porto,62,16.51,10
+Almelo,NL519C1,Almelo,69,14.77,10
+Havířov,CZ015C1,Ostrava,32,31.39,10
+Torrelavega,ES548C1,Santander,35,28.41,10
+Gniezno,PL037C1,Gniezno,41,24.67,10
+Benalmádena,ES539C1,Málaga,27,37.18,10
+Denizli(FUA name),TR006C1,Denizli,110,9.08,10
+Hastings,UK056C1,Hastings,30,33.49,10
+Torrevieja,ES035C1,Torrevieja,71,13.87,10
+Piacenza,IT033C1,Piacenza,118,8.36,10
+Harrow,UK115C1,London,51,19.30,10
+Huelva,ES521C1,Huelva,151,6.44,10
+Pescara,IT019C1,Pescara,34,28.54,10
+Tartu,EE002C1,Tartu,39,24.85,10
+Galway,IE004C1,Galway,51,18.88,10
+Vidin,BG007C1,Vidin,59,16.20,10
+Bournemouth,UK539C1,Bournemouth,47,20.14,10
+Troyes,FR051C2,Troyes,43,21.96,10
+Nuneaton and Bedworth,UK035C1,Coventry,79,11.95,9
+North Tyneside,UK529C1,Newcastle upon Tyne,83,11.41,9
+Creil,FR084C1,Creil,34,27.65,9
+Schweinfurt,DE077C1,Schweinfurt,35,26.45,9
+Brest,FR037C1,Brest,49,19.12,9
+Greenwich,UK111C1,London,47,19.58,9
+Rosenheim,DE069C1,Rosenheim,36,25.35,9
+Ploieşti,RO505C1,Ploiesti,58,15.82,9
+Kingston-upon-Hull,UK026C1,Kingston upon Hull,72,12.80,9
+Caen,FR023C2,Caen,49,18.66,9
+Battipaglia,IT064C1,Battipaglia,57,16.07,9
+Treviso,IT042C1,Treviso,56,16.20,9
+Redbridge,UK126C1,London,56,15.90,9
+Sabadell,ES507C1,Barcelona,38,23.91,9
+Irakleio,EL004C2,Irakleio,52,17.22,9
+Valence,FR214C1,Valence,64,14.04,9
+Sankt Augustin,DE075C1,Bonn,34,25.91,9
+Bexley,UK104C1,London,61,14.55,9
+Southampton,UK520C1,Southampton,50,17.57,9
+Perpignan,FR043C2,Perpignan,79,11.02,9
+Getafe,ES518C1,Madrid,79,10.94,9
+Lefkosia,CY001C1,Lefkosia,206,4.13,9
+Exeter,UK018C1,Exeter,47,17.96,8
+Novara,IT516C1,Novara,103,8.22,8
+Erzurum(FUA name),TR009C1,Erzurum,33,25.46,8
+Boulogne-sur-Mer,FR057C2,Boulogne-sur-Mer,32,26.42,8
+Cheltenham,UK571C1,Cheltenham,47,17.68,8
+Karabük(FUA name),TR050C1,Karabük,33,24.62,8
+Głogów,PL044C1,Głogów,35,23.30,8
+Southend-on-Sea,UK541C1,London,42,19.48,8
+Banja Luka(FUA name),BA002C1,Banja Luka,37,21.76,8
+Reims,FR018C1,Reims,80,10.03,8
+Novi Sad(FUA name),RS002C1,Novi Sad,54,14.79,8
+Afyonkarahisar(FUA name),TR039C1,Afyonkarahisar,42,18.99,8
+Barreiro,PT018C1,Lisboa,32,24.94,8
+Middlesbrough,UK559C1,Middlesbrough,54,14.41,8
+Monza,IT510C1,Milano,33,23.42,8
+Norwich,UK566C1,Norwich,41,19.10,8
+Dijon,FR020C2,Dijon,69,11.13,8
+Oxford,UK560C1,Oxford,46,16.72,8
+Slatina,RO019C1,Slatina,48,15.97,8
+Siedlce,PL031C1,Siedlce,32,23.78,8
+Aksaray(FUA name),TR036C1,Aksaray,28,26.79,7
+Hounslow,UK118C1,London,56,13.26,7
+Le Mans,FR038C2,Le Mans,57,13.15,7
+Cremona,IT013C1,Cremona,71,10.55,7
+Reading,UK552C1,Reading,40,17.90,7
+Zoetermeer,NL509C1,s' Gravenhage,37,19.51,7
+Vilanova i la Geltrú,ES063C1,Barcelona,34,21.32,7
+Ludwigsburg,DE049C1,Stuttgart,43,16.55,7
+Brăila,RO005C1,Brăila,45,15.90,7
+Cambridge,UK017C1,Cambridge,41,17.42,7
+Mantes en Yvelines,FR306C1,Paris,31,22.51,7
+Erciş(FUA name),TR053C1,Erciş,30,23.65,7
+Kütahya(FUA name),TR048C1,Kütahya,25,28.35,7
+Rennes,FR013C2,Rennes,50,13.98,7
+South Tyneside,UK547C1,Newcastle upon Tyne,65,10.87,7
+Avilés,ES039C1,Avilés,27,25.42,7
+Gallarate,IT068C1,Gallarate,21,32.37,7
+Chełm,PL042C1,Chełm,35,19.21,7
+Inowrocław,PL035C1,Inowrocław,30,22.25,7
+Sassuolo,IT073C1,Sassuolo,38,17.51,7
+Fethiye(FUA name),TR057C1,Fethiye,37,18.20,7
+Waltham Forest,UK131C1,London,39,17.21,7
+Tuzla(FUA name),BA004C1,Tuzla,19,35.03,7
+Merton,UK124C1,London,38,17.64,7
+Leszno,PL048C1,Leszno,32,20.46,7
+Ealing,UK109C1,London,56,11.70,6
+Castelldefels,ES069C1,Barcelona,13,50.21,6
+Kastamonu(FUA name),TR015C1,Kastamonu,21,30.61,6
+Purmerend,NL023C1,Amsterdam,25,26.01,6
+Udine,IT035C1,Udine,57,11.17,6
+Arras,FR064C2,Arras,41,15.39,6
+Worcester,UK024C1,Worcester,33,18.97,6
+Panevėžys,LT003C1,Panevėžys,50,12.56,6
+Lewisham,UK123C1,London,35,17.80,6
+Cork,IE002C1,Cork,40,15.50,6
+Botoşani,RO510C1,Botosani,41,14.83,6
+Zenica(FUA name),BA005C1,Zenica,16,38.05,6
+Meaux,FR305C1,Paris,26,23.13,6
+Balıkesir(FUA name),TR004C1,Balıkesir,52,11.63,6
+Niğde(FUA name),TR041C1,Niğde,24,25.12,6
+Leganés,ES513C1,Madrid,43,13.87,6
+Batman(FUA name),TR030C1,Batman,52,11.45,6
+A Coruña,ES026C1,Coruña (A),38,15.86,6
+Sutton,UK129C1,London,44,13.56,6
+Mataró,ES530C1,Barcelona,22,26.58,6
+Zaanstad,NL502C1,Amsterdam,83,7.06,6
+Porto,PT002C1,Porto,41,14.16,6
+León,ES523C1,León,39,15.00,6
+Nizip(FUA name),TR066C1,Nizip,16,36.64,6
+La Rochelle,FR053C1,La Rochelle,38,15.40,6
+Bacău,RO007C1,Bacău,43,13.10,6
+Kingston upon Thames,UK121C1,London,37,15.09,6
+Waterford,IE005C1,Waterford,42,13.48,6
+Wandsworth,UK132C1,London,34,16.23,6
+Tamworth,UK060C1,West Midlands urban area,31,17.78,5
+Çorum(FUA name),TR034C1,Çorum,39,14.03,5
+Lincoln,UK019C1,Lincoln,36,15.25,5
+Harlow,UK061C1,London,31,17.78,5
+Genève,CH002C1,Genève,16,33.85,5
+Lorient,FR049C2,Lorient,31,17.54,5
+Kragujevac(FUA name),RS004C1,Kragujevac,29,18.37,5
+Torremolinos,ES068C1,Málaga,19,27.33,5
+Collado Villalba,ES541C1,Madrid,25,21.07,5
+Camden,UK107C1,London,22,24.02,5
+Valdemoro,ES549C1,Madrid,64,8.13,5
+Ipswich,UK569C1,Ipswich,40,13.19,5
+Haringey,UK114C1,London,30,17.33,5
+Móstoles,ES504C1,Madrid,45,11.33,5
+Chartres,FR060C2,Chartres,45,11.31,5
+San Vicente del Raspeig/Sant Vicent del Raspeig,ES558C1,Alicante/Alacant,41,12.40,5
+Blagoevgrad,BG016C1,Blagoevgrad,29,17.24,5
+Zrenjanin(FUA name),RS008C1,Zrenjanin,21,23.56,5
+Oostende,BE011C1,Oostende,38,12.98,5
+Roanne,FR077C1,Roanne,32,15.51,5
+Larisa,EL005C2,Larisa,88,5.57,5
+Basel,CH003C1,Basel,24,20.45,5
+Busto Arsizio,IT044C1,Milano,31,15.65,5
+Buzău,RO508C1,Buzau,74,6.51,5
+Southwark,UK128C1,London,29,16.61,5
+Patnos(FUA name),TR060C1,Patnos,14,34.10,5
+Siverek(FUA name),TR038C1,Siverek,16,29.52,5
+Pordenone,IT058C1,Pordenone,38,12.27,5
+Alcorcón,ES517C1,Madrid,34,13.84,5
+Kraljevo(FUA name),RS009C1,Kraljevo,20,23.01,5
+Świdnica,PL049C1,Świdnica,22,21.04,5
+Čačak(FUA name),RS011C1,Čačak,19,23.53,4
+Akşehir(FUA name),TR075C1,Akşehir,15,29.54,4
+Calais,FR062C1,Calais,33,13.35,4
+Brent,UK105C1,London,43,9.82,4
+Subotica(FUA name),RS005C1,Subotica,24,17.59,4
+Athina,EL001C2,Athina,39,10.80,4
+Blackpool,UK553C1,Blackpool,35,12.03,4
+Manavgat(FUA name),TR077C1,Manavgat,22,19.22,4
+Badalona,ES503C1,Barcelona,21,19.84,4
+Elbistan(FUA name),TR065C1,Elbistan,14,29.67,4
+Zamość,PL041C1,Zamość,30,13.46,4
+Kilis(FUA name),TR069C1,Kilis,12,34.07,4
+Tczew,PL051C1,Tczew,22,18.01,4
+Fuenlabrada,ES509C1,Madrid,39,10.20,4
+Łomża,PL047C1,Łomża,33,12.21,4
+Elbasan(FUA name),AL003C1,Elbasan,11,36.00,4
+Sivas(FUA name),TR031C1,Sivas,47,8.39,4
+Roman,RO021C1,Roman,29,13.37,4
+Ełk,PL052C1,Ełk,21,18.70,4
+Watford,UK577C1,London,21,18.32,4
+Gosport,UK578C1,Portsmouth,25,15.25,4
+Bingöl(FUA name),TR074C1,Bingöl,17,22.64,4
+Pamplona/Iruña,ES014C1,Pamplona/Iruña,25,15.21,4
+Ereğli(FUA name),TR054C1,Ereğli,16,23.94,4
+Mostar(FUA name),BA003C1,Mostar,16,23.66,4
+Veenendaal,NL524C1,Veenendaal,20,18.57,4
+Bârlad,RO020C1,Bârlad,15,24.79,4
+Niš(FUA name),RS003C1,Niš,27,13.54,4
+Torrejón de Ardoz,ES534C1,Madrid,32,11.28,4
+Gouda,NL030C1,Gouda,18,20.12,4
+Odivelas,PT013C1,Lisboa,27,13.51,4
+Pazardzhik,BG015C1,Pazardzhik,38,9.54,4
+Sant Boi de Llobregat,ES042C1,Barcelona,22,15.93,4
+Annemasse,FR047C2,Annemasse,15,23.90,3
+Saint-Quentin,FR079C2,Saint-Quentin,23,15.12,3
+Viladecans,ES056C1,Barcelona,20,17.11,3
+Podgorica(FUA name),ME001C1,Podgorica,30,11.42,3
+Tetovo(FUA name),MK004C1,Tetovo,10,33.72,3
+Frankenthal (Pfalz),DE070C1,Mannheim-Ludwigshafen,44,7.68,3
+Trnava,SK007C1,Trnava,72,4.67,3
+Valletta,MT001C1,Valletta,50,6.58,3
+Newham,UK125C1,London,36,9.01,3
+Portsmouth,UK023C1,Portsmouth,41,8.06,3
+Lambeth,UK122C1,London,27,12.04,3
+Hoorn,NL031C1,Amsterdam,53,5.98,3
+Westminster,UK133C1,London,21,14.83,3
+Salamanca,ES516C1,Salamanca,39,8.07,3
+Cagliari,IT027C1,Cagliari,84,3.77,3
+Siirt(FUA name),TR023C1,Siirt,20,15.74,3
+Nevşehir(FUA name),TR021C1,Nevşehir,15,20.63,3
+Eivissa,ES543C1,Eivissa,11,27.59,3
+Limerick,IE003C1,Limerick,19,15.58,3
+Viranşehir(FUA name),TR056C1,Viranşehir,13,22.81,3
+Yozgat(FUA name),TR078C1,Yozgat,10,29.53,3
+Kars(FUA name),TR014C1,Kars,14,21.04,3
+Shkodër(FUA name),AL004C1,Shkodër,12,23.75,3
+Bitola(FUA name),MK003C1,Bitola,11,25.37,3
+Salihli(FUA name),TR068C1,Salihli,14,19.08,3
+Çanakkale(FUA name),TR051C1,Çanakkale,23,11.31,3
+Karaman(FUA name),TR044C1,Karaman,19,13.97,3
+Çankırı(FUA name),TR073C1,Çankırı,12,21.96,3
+Amadora,PT011C1,Lisboa,24,10.71,3
+Santander,ES015C1,Santander,35,6.96,2
+Prat de Llobregat El,ES064C1,Barcelona,31,7.62,2
+Kruševac(FUA name),RS012C1,Kruševac,14,17.14,2
+Ioannina,EL007C2,Ioannina,16,14.95,2
+Hackney,UK112C1,London,19,12.20,2
+Coslada,ES038C1,Madrid,12,18.89,2
+Novi Pazar(FUA name),RS006C1,Novi Pazar,15,15.02,2
+Focşani,RO015C1,Focşani,47,4.72,2
+Vranje(FUA name),RS015C1,Vranje,11,20.29,2
+Smederevo(FUA name),RS016C1,Smederevo,12,18.29,2
+Pristina(FUA name),XK001C1,Pristina,22,9.92,2
+Bolu(FUA name),TR062C1,Bolu,20,10.54,2
+Islington,UK119C1,London,15,14.07,2
+Muş(FUA name),TR064C1,Muş,18,11.25,2
+Fuengirola,ES060C1,Marbella,10,19.36,2
+Barking and Dagenham,UK102C1,London,36,5.52,2
+Ödemiş(FUA name),TR061C1,Ödemiş,12,16.61,2
+Valjevo(FUA name),RS014C1,Valjevo,15,12.97,2
+Polatli(FUA name),TR076C1,Polatli,12,16.02,2
+Thessaloniki,EL002C2,Thessaloniki,19,9.65,2
+Edirne(FUA name),TR008C1,Edirne,21,8.84,2
+Ceylanpinar(FUA name),TR058C1,Ceylanpinar,7,27.03,2
+Yumurtalik(FUA name),TR045C1,Yumurtalik,7,27.79,2
+Getxo,ES051C1,Bilbao,12,14.99,2
+Prizren(FUA name),XK002C1,Prizren,18,9.86,2
+Parla,ES030C1,Madrid,25,7.00,2
+Ağrı(FUA name),TR043C1,Ağrı,24,7.18,2
+Tower Hamlets,UK130C1,London,20,8.63,2
+Ergani(FUA name),TR047C1,Ergani,13,12.92,2
+Bandirma(FUA name),TR063C1,Bandirma,25,6.59,2
+Kensington and Chelsea,UK120C1,London,12,12.02,1
+Uşak(FUA name),TR042C1,Uşak,19,7.61,1
+Kızıltepe(FUA name),TR070C1,Kızıltepe,17,8.38,1
+Volos,EL006C2,Volos,27,4.92,1
+San Fernando,ES032C1,Cádiz,31,4.18,1
+Hammersmith and Fulham,UK113C1,London,16,7.76,1
+Santa Coloma de Gramenet,ES526C1,Barcelona,7,17.13,1
+Mitrovicë(FUA name),XK003C1,Mitrovicë,10,12.15,1
+Akçakale(FUA name),TR052C1,Akçakale,14,8.30,1
+Granollers,ES071C1,Barcelona,15,7.85,1
+L'Hospitalet de Llobregat,ES024C1,Barcelona,14,8.49,1
+Saronno,IT070C1,Milano,11,10.22,1
+Mollet del Vallès,ES075C1,Barcelona,11,10.41,1
+Leskovac(FUA name),RS013C1,Leskovac,10,11.17,1
+Prilep(FUA name),MK005C1,Prilep,10,10.51,1
+Cizre(FUA name),TR072C1,Cizre,14,6.82,1
+Santurtzi,ES556C1,Bilbao,7,12.74,1
+Esplugues de Llobregat,ES557C1,Barcelona,5,18.28,1
+Igualada,ES552C1,Igualada,8,10.06,1
+Midyat(FUA name),TR071C1,Midyat,16,4.56,1
+Arrecife,ES072C1,Arrecife,24,2.84,1
+Suruç(FUA name),TR067C1,Suruç,9,7.05,1
+Cornellà de Llobregat,ES066C1,Barcelona,7,9.03,1
+Alaşehir(FUA name),TR079C1,Alaşehir,13,4.42,1
+Cádiz,ES522C1,Cádiz,12,3.90,0
+Mislata,ES554C1,Valencia,2,12.10,0
+Puerto de la Cruz,ES550C1,Puerto de la Cruz,9,1.70,0
+City of London,UK101C1,London,3,1.42,0
